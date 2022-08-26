@@ -1,19 +1,19 @@
 import pandas as pd
 
-from helpers.constants import (
+from helpers.google_sheets_funcs import (
+    get_sheet_values,
+    write_sheet_values,
+    write_spreadsheet,
+)
+from helpers.settings import (
     fantasy_spreadsheet_id,
     season_overview_tab_name,
     weekly_data_tab_id,
     weekly_data_tab_name,
     winners_data_tab_id,
     winners_data_tab_name,
+    year,
 )
-from helpers.google_sheets_funcs import (
-    get_sheet_values,
-    write_sheet_values,
-    write_spreadsheet,
-)
-from helpers.settings import year
 from helpers.utils import (
     get_list_of_scores_by_week_json,
     group_df_by_week_and_position,
@@ -72,7 +72,7 @@ def write_group_df(df, price_dict):
 def main(use_espn_api=False):
     try:
         df = pd.read_csv(f"Data/{year}_Season.csv")
-    except:
+    except Exception:
         use_espn_api = True
 
     if use_espn_api:
@@ -89,9 +89,7 @@ def main(use_espn_api=False):
 if __name__ == "__main__":
     """
     To Do:
-        - Get the playoff teams and write them to C42:C45 automatically
-        - Figure out login cookies without selenium so can automate
-        - Move to heroku and server job to run hourly
+        - Move to heroku and server job to run daily?
     """
 
     use_espn_api = True

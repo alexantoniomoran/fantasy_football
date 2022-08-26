@@ -6,7 +6,7 @@ Team ID,Team,Week,Player,Position,Points
 2,Show Me Your TDs,1,Logan Thomas,TE,12.0
 2,Show Me Your TDs,1,Aaron Rodgers,QB,1.3200000000000003
 2,Show Me Your TDs,1,Brandin Cooks,WR,18.200000000000003
-2,Show Me Your TDs,1,Washington D/ST,DEF,1.0
+2,Show Me Your TDs,1,Commanders D/ST,DEF,1.0
 2,Show Me Your TDs,1,Younghoe Koo,K,6.0
 2,Show Me Your TDs,1,,Total Points,111.02
 10,Dillon Durden,1,Dalvin Cook,RB,20.400000000000002
@@ -71,7 +71,7 @@ Team ID,Team,Week,Player,Position,Points
 3,Ted Spradley,1,,Total Points,148.6
 4,Alex Moran,1,Davante Adams,WR,10.600000000000001
 4,Alex Moran,1,Clyde Edwards-Helaire,RB,10.2
-4,Alex Moran,1,George Kittle,TE,9.8
+4,Alex Moran,1,George Kittle,TE,11.8
 4,Alex Moran,1,Chris Carson,RB,12.7
 4,Alex Moran,1,Kyler Murray,QB,33.56
 4,Alex Moran,1,Tee Higgins,WR,15.8
@@ -79,7 +79,7 @@ Team ID,Team,Week,Player,Position,Points
 4,Alex Moran,1,Michael Thomas,WR,0.0
 4,Alex Moran,1,Steelers D/ST,DEF,13.0
 4,Alex Moran,1,Justin Tucker,K,11.0
-4,Alex Moran,1,,Total Points,129.36
+4,Alex Moran,1,,Total Points,131.36
 8,Old(er) Kitchen,1,Nick Chubb,RB,22.1
 8,Old(er) Kitchen,1,Antonio Gibson,RB,11.8
 8,Old(er) Kitchen,1,Mike Evans,WR,5.4
@@ -100,3 +100,1575 @@ Team ID,Team,Week,Player,Position,Points
 9,Trevor Howard,1,49ers D/ST,DEF,7.0
 9,Trevor Howard,1,Jason Myers,K,4.0
 9,Trevor Howard,1,,Total Points,113.88
+1,The Good Lookin Kitchen,2,Derrick Henry,RB,47.7
+1,The Good Lookin Kitchen,2,Austin Ekeler,RB,22.5
+1,The Good Lookin Kitchen,2,Darren Waller,TE,11.5
+1,The Good Lookin Kitchen,2,CeeDee Lamb,WR,17.4
+1,The Good Lookin Kitchen,2,Tyler Lockett,WR,31.8
+1,The Good Lookin Kitchen,2,Darrell Henderson Jr.,RB,17.200000000000003
+1,The Good Lookin Kitchen,2,Kirk Cousins,QB,25.259999999999998
+1,The Good Lookin Kitchen,2,Rams D/ST,DEF,6.0
+1,The Good Lookin Kitchen,2,Ryan Succop,K,6.0
+1,The Good Lookin Kitchen,2,,Total Points,185.36
+7,Green Bowl Packers,2,Travis Kelce,TE,23.9
+7,Green Bowl Packers,2,Joe Mixon,RB,8.1
+7,Green Bowl Packers,2,Allen Robinson II,WR,10.4
+7,Green Bowl Packers,2,Adam Thielen,WR,15.9
+7,Green Bowl Packers,2,Damien Harris,RB,13.399999999999999
+7,Green Bowl Packers,2,Odell Beckham Jr.,WR,0.0
+7,Green Bowl Packers,2,Courtland Sutton,WR,24.9
+7,Green Bowl Packers,2,Justin Herbert,QB,14.719999999999999
+7,Green Bowl Packers,2,Matt Gay,K,9.0
+7,Green Bowl Packers,2,Browns D/ST,DEF,5.0
+7,Green Bowl Packers,2,Evan Engram,TE,0.0
+7,Green Bowl Packers,2,,Total Points,125.32
+4,Alex Moran,2,Davante Adams,WR,20.1
+4,Alex Moran,2,Clyde Edwards-Helaire,RB,2.6000000000000005
+4,Alex Moran,2,George Kittle,TE,5.7
+4,Alex Moran,2,Chris Carson,RB,15.1
+4,Alex Moran,2,Kyler Murray,QB,33.1
+4,Alex Moran,2,Tee Higgins,WR,16.0
+4,Alex Moran,2,Michael Thomas,WR,0.0
+4,Alex Moran,2,Steelers D/ST,DEF,-1.0
+4,Alex Moran,2,Justin Tucker,K,7.0
+4,Alex Moran,2,Elijah Mitchell,RB,7.300000000000001
+4,Alex Moran,2,,Total Points,105.9
+2,Show Me Your TDs,2,Christian McCaffrey,RB,24.7
+2,Show Me Your TDs,2,Stefon Diggs,WR,16.0
+2,Show Me Your TDs,2,Calvin Ridley,WR,19.3
+2,Show Me Your TDs,2,David Montgomery,RB,10.900000000000002
+2,Show Me Your TDs,2,Logan Thomas,TE,9.5
+2,Show Me Your TDs,2,Ja'Marr Chase,WR,13.4
+2,Show Me Your TDs,2,Jalen Hurts,QB,21.8
+2,Show Me Your TDs,2,Commanders D/ST,DEF,2.0
+2,Show Me Your TDs,2,Younghoe Koo,K,5.0
+2,Show Me Your TDs,2,,Total Points,122.6
+9,Trevor Howard,2,Alvin Kamara,RB,7.0
+9,Trevor Howard,2,DK Metcalf,WR,11.3
+9,Trevor Howard,2,Patrick Mahomes,QB,24.020000000000003
+9,Trevor Howard,2,Mark Andrews,TE,10.7
+9,Trevor Howard,2,Julio Jones,WR,18.8
+9,Trevor Howard,2,Chase Edmonds,RB,12.500000000000002
+9,Trevor Howard,2,Chase Claypool,WR,9.7
+9,Trevor Howard,2,49ers D/ST,DEF,7.0
+9,Trevor Howard,2,Jason Myers,K,6.0
+9,Trevor Howard,2,,Total Points,107.02
+10,Dillon Durden,2,Dalvin Cook,RB,16.8
+10,Dillon Durden,2,Ezekiel Elliott,RB,17.700000000000003
+10,Dillon Durden,2,A.J. Brown,WR,7.3
+10,Dillon Durden,2,Terry McLaurin,WR,27.700000000000003
+10,Dillon Durden,2,Diontae Johnson,WR,19.5
+10,Dillon Durden,2,Josh Allen,QB,16.66
+10,Dillon Durden,2,Noah Fant,TE,13.3
+10,Dillon Durden,2,Patriots D/ST,DEF,16.0
+10,Dillon Durden,2,Graham Gano,K,22.0
+10,Dillon Durden,2,,Total Points,156.96
+3,Ted Spradley,2,DeAndre Hopkins,WR,15.4
+3,Ted Spradley,2,Jonathan Taylor,RB,6.300000000000001
+3,Ted Spradley,2,Justin Jefferson,WR,18.5
+3,Ted Spradley,2,DJ Moore,WR,21.9
+3,Ted Spradley,2,Russell Wilson,QB,23.32
+3,Ted Spradley,2,T.J. Hockenson,TE,20.6
+3,Ted Spradley,2,Harrison Butker,K,5.0
+3,Ted Spradley,2,James Conner,RB,2.6
+3,Ted Spradley,2,Buccaneers D/ST,DEF,19.0
+3,Ted Spradley,2,,Total Points,132.62
+5,Thou Shenault Win ,2,Saquon Barkley,RB,8.9
+5,Thou Shenault Win ,2,Najee Harris,RB,19.1
+5,Thou Shenault Win ,2,Chris Godwin,WR,16.2
+5,Thou Shenault Win ,2,Robert Woods,WR,12.0
+5,Thou Shenault Win ,2,Lamar Jackson,QB,32.260000000000005
+5,Thou Shenault Win ,2,Melvin Gordon III,RB,8.9
+5,Thou Shenault Win ,2,Rob Gronkowski,TE,19.9
+5,Thou Shenault Win ,2,Tyler Bass,K,4.0
+5,Thou Shenault Win ,2,Saints D/ST,DEF,5.0
+5,Thou Shenault Win ,2,,Total Points,126.26
+8,Old(er) Kitchen,2,Nick Chubb,RB,16.8
+8,Old(er) Kitchen,2,Antonio Gibson,RB,9.3
+8,Old(er) Kitchen,2,Mike Evans,WR,24.5
+8,Old(er) Kitchen,2,Amari Cooper,WR,5.4
+8,Old(er) Kitchen,2,Cooper Kupp,WR,36.8
+8,Old(er) Kitchen,2,Tom Brady,QB,29.64
+8,Old(er) Kitchen,2,Dallas Goedert,TE,4.4
+8,Old(er) Kitchen,2,Bills D/ST,DEF,19.0
+8,Old(er) Kitchen,2,Jason Sanders,K,0.0
+8,Old(er) Kitchen,2,,Total Points,145.84
+6,Michael Canter,2,Tyreek Hill,WR,5.9
+6,Michael Canter,2,Aaron Jones,RB,41.5
+6,Michael Canter,2,Keenan Allen,WR,14.8
+6,Michael Canter,2,Miles Sanders,RB,6.9
+6,Michael Canter,2,Robert Tonyan,TE,14.2
+6,Michael Canter,2,Dak Prescott,QB,7.48
+6,Michael Canter,2,Broncos D/ST,DEF,11.0
+6,Michael Canter,2,Brandon McManus,K,13.0
+6,Michael Canter,2,Peyton Barber,RB,3.2
+6,Michael Canter,2,,Total Points,117.98
+4,Alex Moran,3,Davante Adams,WR,31.200000000000003
+4,Alex Moran,3,Clyde Edwards-Helaire,RB,16.9
+4,Alex Moran,3,George Kittle,TE,17.1
+4,Alex Moran,3,Chris Carson,RB,16.2
+4,Alex Moran,3,Kyler Murray,QB,18.54
+4,Alex Moran,3,Kareem Hunt,RB,27.5
+4,Alex Moran,3,Michael Thomas,WR,0.0
+4,Alex Moran,3,Michael Pittman Jr.,WR,13.3
+4,Alex Moran,3,Steelers D/ST,DEF,4.0
+4,Alex Moran,3,Justin Tucker,K,16.0
+4,Alex Moran,3,,Total Points,160.74
+9,Trevor Howard,3,Alvin Kamara,RB,20.799999999999997
+9,Trevor Howard,3,DK Metcalf,WR,22.700000000000003
+9,Trevor Howard,3,Patrick Mahomes,QB,22.9
+9,Trevor Howard,3,Mark Andrews,TE,15.9
+9,Trevor Howard,3,Julio Jones,WR,7.7
+9,Trevor Howard,3,Chase Edmonds,RB,14.5
+9,Trevor Howard,3,Chase Claypool,WR,18.6
+9,Trevor Howard,3,49ers D/ST,DEF,-1.0
+9,Trevor Howard,3,Jason Myers,K,6.0
+9,Trevor Howard,3,,Total Points,128.1
+1,The Good Lookin Kitchen,3,Derrick Henry,RB,19.400000000000002
+1,The Good Lookin Kitchen,3,Austin Ekeler,RB,22.7
+1,The Good Lookin Kitchen,3,Darren Waller,TE,10.4
+1,The Good Lookin Kitchen,3,CeeDee Lamb,WR,9.5
+1,The Good Lookin Kitchen,3,Tyler Lockett,WR,7.1
+1,The Good Lookin Kitchen,3,Mike Davis,RB,11.0
+1,The Good Lookin Kitchen,3,Antonio Brown,WR,0.0
+1,The Good Lookin Kitchen,3,Kirk Cousins,QB,25.119999999999997
+1,The Good Lookin Kitchen,3,Ryan Succop,K,5.0
+1,The Good Lookin Kitchen,3,Cardinals D/ST,DEF,16.0
+1,The Good Lookin Kitchen,3,,Total Points,126.22
+3,Ted Spradley,3,DeAndre Hopkins,WR,5.1
+3,Ted Spradley,3,Jonathan Taylor,RB,8.200000000000001
+3,Ted Spradley,3,Justin Jefferson,WR,26.8
+3,Ted Spradley,3,DJ Moore,WR,20.5
+3,Ted Spradley,3,Russell Wilson,QB,16.62
+3,Ted Spradley,3,T.J. Hockenson,TE,3.0
+3,Ted Spradley,3,Harrison Butker,K,6.0
+3,Ted Spradley,3,James Conner,RB,18.3
+3,Ted Spradley,3,Buccaneers D/ST,DEF,-3.0
+3,Ted Spradley,3,,Total Points,101.52
+7,Green Bowl Packers,3,Travis Kelce,TE,17.4
+7,Green Bowl Packers,3,Joe Mixon,RB,10.4
+7,Green Bowl Packers,3,Allen Robinson II,WR,4.7
+7,Green Bowl Packers,3,Adam Thielen,WR,17.0
+7,Green Bowl Packers,3,Courtland Sutton,WR,8.7
+7,Green Bowl Packers,3,Justin Herbert,QB,30.840000000000003
+7,Green Bowl Packers,3,Matt Gay,K,11.0
+7,Green Bowl Packers,3,Ty'Son Williams,RB,2.2
+7,Green Bowl Packers,3,Panthers D/ST,DEF,10.0
+7,Green Bowl Packers,3,,Total Points,112.24
+8,Old(er) Kitchen,3,Nick Chubb,RB,8.4
+8,Old(er) Kitchen,3,Antonio Gibson,RB,17.4
+8,Old(er) Kitchen,3,Mike Evans,WR,18.6
+8,Old(er) Kitchen,3,Amari Cooper,WR,5.6
+8,Old(er) Kitchen,3,Cooper Kupp,WR,30.6
+8,Old(er) Kitchen,3,Tom Brady,QB,28.68
+8,Old(er) Kitchen,3,Dallas Goedert,TE,8.600000000000001
+8,Old(er) Kitchen,3,Bills D/ST,DEF,9.0
+8,Old(er) Kitchen,3,Jason Sanders,K,10.0
+8,Old(er) Kitchen,3,,Total Points,136.88
+2,Show Me Your TDs,3,Christian McCaffrey,RB,6.0
+2,Show Me Your TDs,3,Stefon Diggs,WR,12.2
+2,Show Me Your TDs,3,Calvin Ridley,WR,14.100000000000001
+2,Show Me Your TDs,3,Logan Thomas,TE,12.2
+2,Show Me Your TDs,3,Brandin Cooks,WR,20.700000000000003
+2,Show Me Your TDs,3,Jarvis Landry,WR,0.0
+2,Show Me Your TDs,3,Jalen Hurts,QB,20.54
+2,Show Me Your TDs,3,Alexander Mattison,RB,23.1
+2,Show Me Your TDs,3,Younghoe Koo,K,6.0
+2,Show Me Your TDs,3,Browns D/ST,DEF,18.0
+2,Show Me Your TDs,3,,Total Points,132.84
+5,Thou Shenault Win ,3,Saquon Barkley,RB,21.400000000000002
+5,Thou Shenault Win ,3,Najee Harris,RB,28.200000000000003
+5,Thou Shenault Win ,3,Chris Godwin,WR,19.6
+5,Thou Shenault Win ,3,Robert Woods,WR,6.800000000000001
+5,Thou Shenault Win ,3,Lamar Jackson,QB,19.28
+5,Thou Shenault Win ,3,Rob Gronkowski,TE,9.5
+5,Thou Shenault Win ,3,Tyler Bass,K,14.0
+5,Thou Shenault Win ,3,Saints D/ST,DEF,19.0
+5,Thou Shenault Win ,3,Rondale Moore,WR,2.4
+5,Thou Shenault Win ,3,,Total Points,140.18
+10,Dillon Durden,3,Ezekiel Elliott,RB,26.6
+10,Dillon Durden,3,A.J. Brown,WR,0.30000000000000004
+10,Dillon Durden,3,Terry McLaurin,WR,10.2
+10,Dillon Durden,3,Josh Allen,QB,37.22
+10,Dillon Durden,3,JuJu Smith-Schuster,WR,5.5
+10,Dillon Durden,3,Noah Fant,TE,3.5
+10,Dillon Durden,3,Kenyan Drake,RB,8.700000000000001
+10,Dillon Durden,3,Patriots D/ST,DEF,5.0
+10,Dillon Durden,3,Graham Gano,K,6.0
+10,Dillon Durden,3,,Total Points,103.02
+6,Michael Canter,3,Tyreek Hill,WR,9.7
+6,Michael Canter,3,Aaron Jones,RB,17.6
+6,Michael Canter,3,Keenan Allen,WR,19.0
+6,Michael Canter,3,Miles Sanders,RB,8.5
+6,Michael Canter,3,Marvin Jones Jr.,WR,12.2
+6,Michael Canter,3,Robert Tonyan,TE,1.6
+6,Michael Canter,3,Dak Prescott,QB,20.119999999999997
+6,Michael Canter,3,Broncos D/ST,DEF,17.0
+6,Michael Canter,3,Brandon McManus,K,16.0
+6,Michael Canter,3,,Total Points,121.72
+3,Ted Spradley,4,DeAndre Hopkins,WR,10.7
+3,Ted Spradley,4,Jonathan Taylor,RB,20.400000000000002
+3,Ted Spradley,4,Justin Jefferson,WR,20.4
+3,Ted Spradley,4,DJ Moore,WR,31.900000000000002
+3,Ted Spradley,4,Russell Wilson,QB,22.560000000000002
+3,Ted Spradley,4,T.J. Hockenson,TE,8.2
+3,Ted Spradley,4,Harrison Butker,K,6.0
+3,Ted Spradley,4,James Conner,RB,20.6
+3,Ted Spradley,4,Buccaneers D/ST,DEF,11.0
+3,Ted Spradley,4,,Total Points,151.76
+8,Old(er) Kitchen,4,Nick Chubb,RB,11.5
+8,Old(er) Kitchen,4,Antonio Gibson,RB,15.5
+8,Old(er) Kitchen,4,Mike Evans,WR,14.5
+8,Old(er) Kitchen,4,Cooper Kupp,WR,11.4
+8,Old(er) Kitchen,4,Deebo Samuel,WR,35.7
+8,Old(er) Kitchen,4,Tom Brady,QB,11.06
+8,Old(er) Kitchen,4,Dallas Goedert,TE,16.6
+8,Old(er) Kitchen,4,Bills D/ST,DEF,21.0
+8,Old(er) Kitchen,4,Jason Sanders,K,5.0
+8,Old(er) Kitchen,4,,Total Points,142.26
+5,Thou Shenault Win ,4,Saquon Barkley,RB,29.6
+5,Thou Shenault Win ,4,Najee Harris,RB,21.1
+5,Thou Shenault Win ,4,Chris Godwin,WR,8.5
+5,Thou Shenault Win ,4,Robert Woods,WR,14.8
+5,Thou Shenault Win ,4,Kyle Pitts,TE,9.0
+5,Thou Shenault Win ,4,Lamar Jackson,QB,19.44
+5,Thou Shenault Win ,4,Tyler Bass,K,16.0
+5,Thou Shenault Win ,4,Saints D/ST,DEF,-3.0
+5,Thou Shenault Win ,4,Cordarrelle Patterson,RB,34.6
+5,Thou Shenault Win ,4,,Total Points,150.04
+4,Alex Moran,4,Davante Adams,WR,12.4
+4,Alex Moran,4,Clyde Edwards-Helaire,RB,19.400000000000002
+4,Alex Moran,4,George Kittle,TE,8.0
+4,Alex Moran,4,Chris Carson,RB,4.1
+4,Alex Moran,4,Kyler Murray,QB,22.62
+4,Alex Moran,4,Kareem Hunt,RB,16.6
+4,Alex Moran,4,Michael Thomas,WR,0.0
+4,Alex Moran,4,Michael Pittman Jr.,WR,11.9
+4,Alex Moran,4,Steelers D/ST,DEF,4.0
+4,Alex Moran,4,Justin Tucker,K,13.0
+4,Alex Moran,4,,Total Points,112.02
+6,Michael Canter,4,Tyreek Hill,WR,47.6
+6,Michael Canter,4,Aaron Jones,RB,10.900000000000002
+6,Michael Canter,4,Keenan Allen,WR,10.6
+6,Michael Canter,4,Miles Sanders,RB,7.7
+6,Michael Canter,4,Marvin Jones Jr.,WR,5.4
+6,Michael Canter,4,Robert Tonyan,TE,2.8
+6,Michael Canter,4,Dak Prescott,QB,27.02
+6,Michael Canter,4,Broncos D/ST,DEF,0.0
+6,Michael Canter,4,Brandon McManus,K,1.0
+6,Michael Canter,4,,Total Points,113.02
+9,Trevor Howard,4,Alvin Kamara,RB,12.0
+9,Trevor Howard,4,DK Metcalf,WR,16.5
+9,Trevor Howard,4,Patrick Mahomes,QB,31.720000000000002
+9,Trevor Howard,4,Mark Andrews,TE,11.7
+9,Trevor Howard,4,Chase Edmonds,RB,17.9
+9,Trevor Howard,4,Curtis Samuel,WR,5.9
+9,Trevor Howard,4,49ers D/ST,DEF,4.0
+9,Trevor Howard,4,Jason Myers,K,4.0
+9,Trevor Howard,4,Tyler Higbee,TE,7.6
+9,Trevor Howard,4,,Total Points,111.32
+2,Show Me Your TDs,4,Stefon Diggs,WR,18.4
+2,Show Me Your TDs,4,Calvin Ridley,WR,15.0
+2,Show Me Your TDs,4,David Montgomery,RB,22.6
+2,Show Me Your TDs,4,D'Andre Swift,RB,8.9
+2,Show Me Your TDs,4,Logan Thomas,TE,0.0
+2,Show Me Your TDs,4,Ja'Marr Chase,WR,13.7
+2,Show Me Your TDs,4,Jarvis Landry,WR,0.0
+2,Show Me Your TDs,4,Jalen Hurts,QB,28.18
+2,Show Me Your TDs,4,Bengals D/ST,DEF,1.0
+2,Show Me Your TDs,4,Daniel Carlson,K,1.0
+2,Show Me Your TDs,4,,Total Points,108.78
+1,The Good Lookin Kitchen,4,Derrick Henry,RB,25.700000000000003
+1,The Good Lookin Kitchen,4,Austin Ekeler,RB,29.500000000000004
+1,The Good Lookin Kitchen,4,Darren Waller,TE,15.0
+1,The Good Lookin Kitchen,4,CeeDee Lamb,WR,3.3
+1,The Good Lookin Kitchen,4,Tyler Lockett,WR,6.4
+1,The Good Lookin Kitchen,4,Darrell Henderson Jr.,RB,16.6
+1,The Good Lookin Kitchen,4,Kirk Cousins,QB,10.120000000000001
+1,The Good Lookin Kitchen,4,Ryan Succop,K,14.0
+1,The Good Lookin Kitchen,4,Cowboys D/ST,DEF,7.0
+1,The Good Lookin Kitchen,4,,Total Points,127.62
+10,Dillon Durden,4,Dalvin Cook,RB,6.4
+10,Dillon Durden,4,Ezekiel Elliott,RB,20.3
+10,Dillon Durden,4,Terry McLaurin,WR,30.3
+10,Dillon Durden,4,Diontae Johnson,WR,24.200000000000003
+10,Dillon Durden,4,Josh Allen,QB,20.020000000000003
+10,Dillon Durden,4,Noah Fant,TE,16.6
+10,Dillon Durden,4,Nyheim Hines,RB,1.1
+10,Dillon Durden,4,Patriots D/ST,DEF,0.0
+10,Dillon Durden,4,Graham Gano,K,7.0
+10,Dillon Durden,4,,Total Points,125.92
+7,Green Bowl Packers,4,Travis Kelce,TE,6.300000000000001
+7,Green Bowl Packers,4,Joe Mixon,RB,13.7
+7,Green Bowl Packers,4,James Robinson,RB,20.6
+7,Green Bowl Packers,4,Adam Thielen,WR,7.6000000000000005
+7,Green Bowl Packers,4,Justin Herbert,QB,21.28
+7,Green Bowl Packers,4,Mike Williams,WR,2.1
+7,Green Bowl Packers,4,Matt Gay,K,8.0
+7,Green Bowl Packers,4,Chuba Hubbard,RB,9.1
+7,Green Bowl Packers,4,Titans D/ST,DEF,2.0
+7,Green Bowl Packers,4,,Total Points,90.68
+5,Thou Shenault Win ,5,Saquon Barkley,RB,0.9
+5,Thou Shenault Win ,5,Najee Harris,RB,22.200000000000003
+5,Thou Shenault Win ,5,Chris Godwin,WR,14.0
+5,Thou Shenault Win ,5,Robert Woods,WR,27.0
+5,Thou Shenault Win ,5,Kyle Pitts,TE,26.9
+5,Thou Shenault Win ,5,Lamar Jackson,QB,41.879999999999995
+5,Thou Shenault Win ,5,Tyler Bass,K,8.0
+5,Thou Shenault Win ,5,Saints D/ST,DEF,5.0
+5,Thou Shenault Win ,5,Cordarrelle Patterson,RB,18.4
+5,Thou Shenault Win ,5,,Total Points,164.28
+6,Michael Canter,5,Tyreek Hill,WR,14.8
+6,Michael Canter,5,Aaron Jones,RB,14.9
+6,Michael Canter,5,Keenan Allen,WR,13.5
+6,Michael Canter,5,Miles Sanders,RB,10.1
+6,Michael Canter,5,Marvin Jones Jr.,WR,3.5
+6,Michael Canter,5,Robert Tonyan,TE,1.8
+6,Michael Canter,5,Dak Prescott,QB,20.68
+6,Michael Canter,5,Broncos D/ST,DEF,2.0
+6,Michael Canter,5,Brandon McManus,K,7.0
+6,Michael Canter,5,,Total Points,88.28
+3,Ted Spradley,5,DeAndre Hopkins,WR,20.700000000000003
+3,Ted Spradley,5,Jonathan Taylor,RB,31.900000000000002
+3,Ted Spradley,5,Justin Jefferson,WR,19.4
+3,Ted Spradley,5,DJ Moore,WR,8.8
+3,Ted Spradley,5,Josh Jacobs,RB,16.7
+3,Ted Spradley,5,Russell Wilson,QB,9.08
+3,Ted Spradley,5,T.J. Hockenson,TE,4.2
+3,Ted Spradley,5,Harrison Butker,K,10.0
+3,Ted Spradley,5,Buccaneers D/ST,DEF,8.0
+3,Ted Spradley,5,,Total Points,128.78
+2,Show Me Your TDs,5,Stefon Diggs,WR,8.9
+2,Show Me Your TDs,5,D'Andre Swift,RB,22.400000000000002
+2,Show Me Your TDs,5,Logan Thomas,TE,0.0
+2,Show Me Your TDs,5,Aaron Rodgers,QB,19.759999999999998
+2,Show Me Your TDs,5,Ja'Marr Chase,WR,27.9
+2,Show Me Your TDs,5,Brandin Cooks,WR,5.300000000000001
+2,Show Me Your TDs,5,Jarvis Landry,WR,0.0
+2,Show Me Your TDs,5,Alexander Mattison,RB,26.3
+2,Show Me Your TDs,5,Daniel Carlson,K,3.0
+2,Show Me Your TDs,5,Dawson Knox,TE,20.700000000000003
+2,Show Me Your TDs,5,Panthers D/ST,DEF,10.0
+2,Show Me Your TDs,5,,Total Points,144.26
+8,Old(er) Kitchen,5,Nick Chubb,RB,24.0
+8,Old(er) Kitchen,5,Antonio Gibson,RB,21.2
+8,Old(er) Kitchen,5,Mike Evans,WR,29.3
+8,Old(er) Kitchen,5,Cooper Kupp,WR,16.200000000000003
+8,Old(er) Kitchen,5,Deebo Samuel,WR,16.1
+8,Old(er) Kitchen,5,Tom Brady,QB,37.74
+8,Old(er) Kitchen,5,Dallas Goedert,TE,4.800000000000001
+8,Old(er) Kitchen,5,Bills D/ST,DEF,15.0
+8,Old(er) Kitchen,5,Jason Sanders,K,5.0
+8,Old(er) Kitchen,5,,Total Points,169.34
+10,Dillon Durden,5,Ezekiel Elliott,RB,25.2
+10,Dillon Durden,5,A.J. Brown,WR,6.800000000000001
+10,Dillon Durden,5,Terry McLaurin,WR,8.600000000000001
+10,Dillon Durden,5,Diontae Johnson,WR,15.2
+10,Dillon Durden,5,Josh Allen,QB,36.5
+10,Dillon Durden,5,Noah Fant,TE,5.0
+10,Dillon Durden,5,Nyheim Hines,RB,1.8
+10,Dillon Durden,5,Patriots D/ST,DEF,4.0
+10,Dillon Durden,5,Graham Gano,K,11.0
+10,Dillon Durden,5,,Total Points,114.1
+4,Alex Moran,5,Davante Adams,WR,37.6
+4,Alex Moran,5,Clyde Edwards-Helaire,RB,3.4
+4,Alex Moran,5,George Kittle,TE,0.0
+4,Alex Moran,5,Kyler Murray,QB,13.66
+4,Alex Moran,5,Kareem Hunt,RB,25.900000000000002
+4,Alex Moran,5,Tee Higgins,WR,10.2
+4,Alex Moran,5,Michael Thomas,WR,0.0
+4,Alex Moran,5,Michael Pittman Jr.,WR,20.9
+4,Alex Moran,5,Steelers D/ST,DEF,3.0
+4,Alex Moran,5,Justin Tucker,K,3.0
+4,Alex Moran,5,Dalton Schultz,TE,13.9
+4,Alex Moran,5,,Total Points,131.56
+1,The Good Lookin Kitchen,5,Derrick Henry,RB,31.0
+1,The Good Lookin Kitchen,5,Austin Ekeler,RB,32.900000000000006
+1,The Good Lookin Kitchen,5,Darren Waller,TE,8.5
+1,The Good Lookin Kitchen,5,CeeDee Lamb,WR,18.8
+1,The Good Lookin Kitchen,5,Tyler Lockett,WR,10.7
+1,The Good Lookin Kitchen,5,Darrell Henderson Jr.,RB,16.900000000000002
+1,The Good Lookin Kitchen,5,Kirk Cousins,QB,13.4
+1,The Good Lookin Kitchen,5,Ryan Succop,K,10.0
+1,The Good Lookin Kitchen,5,Sterling Shepard,WR,0.0
+1,The Good Lookin Kitchen,5,DeVante Parker,WR,0.0
+1,The Good Lookin Kitchen,5,Cardinals D/ST,DEF,7.0
+1,The Good Lookin Kitchen,5,,Total Points,149.2
+9,Trevor Howard,5,Alvin Kamara,RB,29.200000000000003
+9,Trevor Howard,5,DK Metcalf,WR,26.8
+9,Trevor Howard,5,Patrick Mahomes,QB,18.980000000000004
+9,Trevor Howard,5,Mark Andrews,TE,41.7
+9,Trevor Howard,5,Chase Edmonds,RB,4.4
+9,Trevor Howard,5,Chase Claypool,WR,24.0
+9,Trevor Howard,5,Tyler Boyd,WR,6.4
+9,Trevor Howard,5,49ers D/ST,DEF,5.0
+9,Trevor Howard,5,Jason Myers,K,4.0
+9,Trevor Howard,5,,Total Points,160.48
+7,Green Bowl Packers,5,Travis Kelce,TE,17.7
+7,Green Bowl Packers,5,James Robinson,RB,21.7
+7,Green Bowl Packers,5,Adam Thielen,WR,6.0
+7,Green Bowl Packers,5,Courtland Sutton,WR,25.0
+7,Green Bowl Packers,5,Justin Herbert,QB,42.82
+7,Green Bowl Packers,5,Mike Williams,WR,36.5
+7,Green Bowl Packers,5,Matt Gay,K,9.0
+7,Green Bowl Packers,5,Damien Williams,RB,16.4
+7,Green Bowl Packers,5,Ravens D/ST,DEF,0.0
+7,Green Bowl Packers,5,,Total Points,175.12
+10,Dillon Durden,6,Dalvin Cook,RB,22.3
+10,Dillon Durden,6,Ezekiel Elliott,RB,18.9
+10,Dillon Durden,6,A.J. Brown,WR,16.1
+10,Dillon Durden,6,Terry McLaurin,WR,6.800000000000001
+10,Dillon Durden,6,Diontae Johnson,WR,18.6
+10,Dillon Durden,6,Josh Allen,QB,28.72
+10,Dillon Durden,6,Mike Gesicki,TE,19.5
+10,Dillon Durden,6,Patriots D/ST,DEF,-4.0
+10,Dillon Durden,6,Graham Gano,K,3.0
+10,Dillon Durden,6,,Total Points,129.92
+1,The Good Lookin Kitchen,6,Derrick Henry,RB,35.599999999999994
+1,The Good Lookin Kitchen,6,Austin Ekeler,RB,9.5
+1,The Good Lookin Kitchen,6,Darren Waller,TE,10.9
+1,The Good Lookin Kitchen,6,CeeDee Lamb,WR,36.1
+1,The Good Lookin Kitchen,6,Tyler Lockett,WR,5.5
+1,The Good Lookin Kitchen,6,Darrell Henderson Jr.,RB,24.700000000000003
+1,The Good Lookin Kitchen,6,Ryan Succop,K,4.0
+1,The Good Lookin Kitchen,6,Sterling Shepard,WR,17.6
+1,The Good Lookin Kitchen,6,DeVante Parker,WR,0.0
+1,The Good Lookin Kitchen,6,Colts D/ST,DEF,11.0
+1,The Good Lookin Kitchen,6,Taylor Heinicke,QB,9.280000000000001
+1,The Good Lookin Kitchen,6,,Total Points,146.58
+7,Green Bowl Packers,6,Travis Kelce,TE,17.9
+7,Green Bowl Packers,6,Joe Mixon,RB,26.299999999999997
+7,Green Bowl Packers,6,James Robinson,RB,19.1
+7,Green Bowl Packers,6,Adam Thielen,WR,29.8
+7,Green Bowl Packers,6,Justin Herbert,QB,11.0
+7,Green Bowl Packers,6,Mike Williams,WR,4.7
+7,Green Bowl Packers,6,Matt Gay,K,8.0
+7,Green Bowl Packers,6,Rams D/ST,DEF,17.0
+7,Green Bowl Packers,6,Damien Williams,RB,0.0
+7,Green Bowl Packers,6,Darrel Williams,RB,23.9
+7,Green Bowl Packers,6,,Total Points,157.7
+4,Alex Moran,6,Davante Adams,WR,12.9
+4,Alex Moran,6,George Kittle,TE,0.0
+4,Alex Moran,6,Kyler Murray,QB,25.76
+4,Alex Moran,6,Kareem Hunt,RB,10.8
+4,Alex Moran,6,Tee Higgins,WR,7.4
+4,Alex Moran,6,Michael Thomas,WR,0.0
+4,Alex Moran,6,Michael Pittman Jr.,WR,5.8
+4,Alex Moran,6,Steelers D/ST,DEF,7.0
+4,Alex Moran,6,Justin Tucker,K,12.0
+4,Alex Moran,6,Dalton Schultz,TE,12.9
+4,Alex Moran,6,Chuba Hubbard,RB,13.500000000000002
+4,Alex Moran,6,,Total Points,108.06
+9,Trevor Howard,6,DK Metcalf,WR,11.8
+9,Trevor Howard,6,Patrick Mahomes,QB,22.98
+9,Trevor Howard,6,Mark Andrews,TE,17.8
+9,Trevor Howard,6,Julio Jones,WR,8.9
+9,Trevor Howard,6,Chase Edmonds,RB,8.0
+9,Trevor Howard,6,Chase Claypool,WR,3.7
+9,Trevor Howard,6,J.D. McKissic,RB,19.0
+9,Trevor Howard,6,Jason Myers,K,10.0
+9,Trevor Howard,6,Bears D/ST,DEF,3.0
+9,Trevor Howard,6,,Total Points,105.18
+3,Ted Spradley,6,DeAndre Hopkins,WR,20.5
+3,Ted Spradley,6,Jonathan Taylor,RB,28.8
+3,Ted Spradley,6,Justin Jefferson,WR,14.0
+3,Ted Spradley,6,DJ Moore,WR,10.9
+3,Ted Spradley,6,Josh Jacobs,RB,15.200000000000001
+3,Ted Spradley,6,T.J. Hockenson,TE,15.4
+3,Ted Spradley,6,Harrison Butker,K,9.0
+3,Ted Spradley,6,Buccaneers D/ST,DEF,6.0
+3,Ted Spradley,6,Sam Darnold,QB,15.08
+3,Ted Spradley,6,,Total Points,134.88
+8,Old(er) Kitchen,6,Antonio Gibson,RB,4.4
+8,Old(er) Kitchen,6,Mike Evans,WR,4.7
+8,Old(er) Kitchen,6,Amari Cooper,WR,10.5
+8,Old(er) Kitchen,6,Cooper Kupp,WR,34.0
+8,Old(er) Kitchen,6,Javonte Williams,RB,9.8
+8,Old(er) Kitchen,6,Tom Brady,QB,17.98
+8,Old(er) Kitchen,6,Bills D/ST,DEF,0.0
+8,Old(er) Kitchen,6,Jason Sanders,K,7.0
+8,Old(er) Kitchen,6,Zach Ertz,TE,12.9
+8,Old(er) Kitchen,6,,Total Points,101.28
+5,Thou Shenault Win ,6,Najee Harris,RB,24.700000000000003
+5,Thou Shenault Win ,6,Chris Godwin,WR,9.3
+5,Thou Shenault Win ,6,Robert Woods,WR,11.1
+5,Thou Shenault Win ,6,Lamar Jackson,QB,11.780000000000001
+5,Thou Shenault Win ,6,Leonard Fournette,RB,30.700000000000003
+5,Thou Shenault Win ,6,Tyler Bass,K,13.0
+5,Thou Shenault Win ,6,Rondale Moore,WR,5.6
+5,Thou Shenault Win ,6,Packers D/ST,DEF,9.0
+5,Thou Shenault Win ,6,Hunter Henry,TE,10.5
+5,Thou Shenault Win ,6,,Total Points,125.68
+6,Michael Canter,6,Tyreek Hill,WR,22.6
+6,Michael Canter,6,Aaron Jones,RB,21.0
+6,Michael Canter,6,Keenan Allen,WR,10.0
+6,Michael Canter,6,Miles Sanders,RB,8.600000000000001
+6,Michael Canter,6,Marvin Jones Jr.,WR,23.0
+6,Michael Canter,6,Robert Tonyan,TE,3.0
+6,Michael Canter,6,Dak Prescott,QB,26.8
+6,Michael Canter,6,Broncos D/ST,DEF,-2.0
+6,Michael Canter,6,Brandon McManus,K,6.0
+6,Michael Canter,6,,Total Points,119.0
+2,Show Me Your TDs,6,Stefon Diggs,WR,23.9
+2,Show Me Your TDs,6,D'Andre Swift,RB,17.7
+2,Show Me Your TDs,6,Logan Thomas,TE,0.0
+2,Show Me Your TDs,6,Ja'Marr Chase,WR,13.700000000000001
+2,Show Me Your TDs,6,Brandin Cooks,WR,17.9
+2,Show Me Your TDs,6,Jarvis Landry,WR,0.0
+2,Show Me Your TDs,6,Jalen Hurts,QB,25.0
+2,Show Me Your TDs,6,Dawson Knox,TE,7.5
+2,Show Me Your TDs,6,Cowboys D/ST,DEF,13.0
+2,Show Me Your TDs,6,Alex Collins,RB,16.8
+2,Show Me Your TDs,6,Greg Zuerlein,K,12.0
+2,Show Me Your TDs,6,,Total Points,147.5
+4,Alex Moran,7,Davante Adams,WR,19.6
+4,Alex Moran,7,George Kittle,TE,0.0
+4,Alex Moran,7,Kyler Murray,QB,21.439999999999998
+4,Alex Moran,7,Tee Higgins,WR,13.2
+4,Alex Moran,7,Michael Thomas,WR,0.0
+4,Alex Moran,7,Michael Pittman Jr.,WR,20.5
+4,Alex Moran,7,Justin Tucker,K,6.0
+4,Alex Moran,7,Elijah Mitchell,RB,16.700000000000003
+4,Alex Moran,7,Chuba Hubbard,RB,9.600000000000001
+4,Alex Moran,7,Mo Alie-Cox,TE,11.5
+4,Alex Moran,7,Saints D/ST,DEF,10.0
+4,Alex Moran,7,,Total Points,128.54
+10,Dillon Durden,7,A.J. Brown,WR,27.3
+10,Dillon Durden,7,Terry McLaurin,WR,25.200000000000003
+10,Dillon Durden,7,Josh Allen,QB,0.0
+10,Dillon Durden,7,Kenyan Drake,RB,16.9
+10,Dillon Durden,7,Mike Gesicki,TE,21.5
+10,Dillon Durden,7,Nyheim Hines,RB,2.2
+10,Dillon Durden,7,Patriots D/ST,DEF,13.0
+10,Dillon Durden,7,Graham Gano,K,15.0
+10,Dillon Durden,7,,Total Points,121.1
+3,Ted Spradley,7,DeAndre Hopkins,WR,18.3
+3,Ted Spradley,7,Jonathan Taylor,RB,18.000000000000004
+3,Ted Spradley,7,DJ Moore,WR,13.3
+3,Ted Spradley,7,Josh Jacobs,RB,15.8
+3,Ted Spradley,7,T.J. Hockenson,TE,10.8
+3,Ted Spradley,7,DeVonta Smith,WR,11.100000000000001
+3,Ted Spradley,7,Harrison Butker,K,3.0
+3,Ted Spradley,7,Buccaneers D/ST,DEF,18.0
+3,Ted Spradley,7,Sam Darnold,QB,2.4800000000000004
+3,Ted Spradley,7,,Total Points,110.78
+7,Green Bowl Packers,7,Travis Kelce,TE,13.5
+7,Green Bowl Packers,7,Joe Mixon,RB,11.9
+7,Green Bowl Packers,7,Damien Harris,RB,25.3
+7,Green Bowl Packers,7,Courtland Sutton,WR,11.8
+7,Green Bowl Packers,7,Matt Gay,K,9.0
+7,Green Bowl Packers,7,Rams D/ST,DEF,3.0
+7,Green Bowl Packers,7,Damien Williams,RB,1.8
+7,Green Bowl Packers,7,Kadarius Toney,WR,0.0
+7,Green Bowl Packers,7,Darrel Williams,RB,8.0
+7,Green Bowl Packers,7,Allen Robinson II,WR,3.6
+7,Green Bowl Packers,7,Matt Ryan,QB,17.439999999999998
+7,Green Bowl Packers,7,,Total Points,103.54
+5,Thou Shenault Win ,7,Chris Godwin,WR,25.1
+5,Thou Shenault Win ,7,Robert Woods,WR,15.0
+5,Thou Shenault Win ,7,Kyle Pitts,TE,23.3
+5,Thou Shenault Win ,7,Lamar Jackson,QB,23.08
+5,Thou Shenault Win ,7,Leonard Fournette,RB,17.0
+5,Thou Shenault Win ,7,Rondale Moore,WR,3.7
+5,Thou Shenault Win ,7,Cordarrelle Patterson,RB,14.1
+5,Thou Shenault Win ,7,Cardinals D/ST,DEF,11.0
+5,Thou Shenault Win ,7,Matt Prater,K,7.0
+5,Thou Shenault Win ,7,,Total Points,139.28
+9,Trevor Howard,7,Alvin Kamara,RB,33.900000000000006
+9,Trevor Howard,7,DK Metcalf,WR,17.6
+9,Trevor Howard,7,Patrick Mahomes,QB,7.74
+9,Trevor Howard,7,Mark Andrews,TE,7.800000000000001
+9,Trevor Howard,7,Julio Jones,WR,5.800000000000001
+9,Trevor Howard,7,Chase Edmonds,RB,10.0
+9,Trevor Howard,7,Jason Myers,K,4.0
+9,Trevor Howard,7,Bears D/ST,DEF,-4.0
+9,Trevor Howard,7,Tim Patrick,WR,3.6
+9,Trevor Howard,7,,Total Points,86.44
+2,Show Me Your TDs,7,Christian McCaffrey,RB,0.0
+2,Show Me Your TDs,7,Calvin Ridley,WR,12.6
+2,Show Me Your TDs,7,David Montgomery,RB,0.0
+2,Show Me Your TDs,7,D'Andre Swift,RB,28.400000000000002
+2,Show Me Your TDs,7,Ja'Marr Chase,WR,34.1
+2,Show Me Your TDs,7,Brandin Cooks,WR,7.1
+2,Show Me Your TDs,7,Jalen Hurts,QB,23.54
+2,Show Me Your TDs,7,Panthers D/ST,DEF,2.0
+2,Show Me Your TDs,7,D'Ernest Johnson,RB,24.8
+2,Show Me Your TDs,7,Ricky Seals-Jones,TE,11.100000000000001
+2,Show Me Your TDs,7,Mason Crosby,K,5.0
+2,Show Me Your TDs,7,,Total Points,148.64
+8,Old(er) Kitchen,7,Antonio Gibson,RB,7.6000000000000005
+8,Old(er) Kitchen,7,Mike Evans,WR,31.6
+8,Old(er) Kitchen,7,Cooper Kupp,WR,37.6
+8,Old(er) Kitchen,7,Myles Gaskin,RB,17.7
+8,Old(er) Kitchen,7,Michael Gallup,WR,0.0
+8,Old(er) Kitchen,7,Deebo Samuel,WR,21.0
+8,Old(er) Kitchen,7,Tom Brady,QB,24.439999999999998
+8,Old(er) Kitchen,7,Dallas Goedert,TE,12.0
+8,Old(er) Kitchen,7,Jason Sanders,K,3.0
+8,Old(er) Kitchen,7,Ravens D/ST,DEF,-6.0
+8,Old(er) Kitchen,7,,Total Points,148.94
+1,The Good Lookin Kitchen,7,Derrick Henry,RB,16.4
+1,The Good Lookin Kitchen,7,Tyler Lockett,WR,3.2
+1,The Good Lookin Kitchen,7,Darrell Henderson Jr.,RB,9.4
+1,The Good Lookin Kitchen,7,Antonio Brown,WR,0.0
+1,The Good Lookin Kitchen,7,Ryan Succop,K,7.0
+1,The Good Lookin Kitchen,7,Sterling Shepard,WR,0.0
+1,The Good Lookin Kitchen,7,Devontae Booker,RB,14.600000000000001
+1,The Good Lookin Kitchen,7,Jets D/ST,DEF,-11.0
+1,The Good Lookin Kitchen,7,O.J. Howard,TE,1.9
+1,The Good Lookin Kitchen,7,Derek Carr,QB,19.02
+1,The Good Lookin Kitchen,7,,Total Points,60.52
+6,Michael Canter,7,Tyreek Hill,WR,12.7
+6,Michael Canter,7,Aaron Jones,RB,8.9
+6,Michael Canter,7,Miles Sanders,RB,3.7
+6,Michael Canter,7,Robert Tonyan,TE,16.3
+6,Michael Canter,7,Broncos D/ST,DEF,3.0
+6,Michael Canter,7,Brandon McManus,K,2.0
+6,Michael Canter,7,Geno Smith,QB,11.879999999999999
+6,Michael Canter,7,Marquez Callaway,WR,6.2
+6,Michael Canter,7,,Total Points,64.68
+10,Dillon Durden,8,Dalvin Cook,RB,7.800000000000001
+10,Dillon Durden,8,Ezekiel Elliott,RB,11.3
+10,Dillon Durden,8,A.J. Brown,WR,31.5
+10,Dillon Durden,8,Terry McLaurin,WR,6.5
+10,Dillon Durden,8,Diontae Johnson,WR,15.8
+10,Dillon Durden,8,Josh Allen,QB,29.46
+10,Dillon Durden,8,Mike Gesicki,TE,9.8
+10,Dillon Durden,8,Patriots D/ST,DEF,12.0
+10,Dillon Durden,8,Graham Gano,K,5.0
+10,Dillon Durden,8,,Total Points,129.16
+3,Ted Spradley,8,DeAndre Hopkins,WR,8.600000000000001
+3,Ted Spradley,8,Jonathan Taylor,RB,21.2
+3,Ted Spradley,8,Justin Jefferson,WR,4.1
+3,Ted Spradley,8,DJ Moore,WR,9.9
+3,Ted Spradley,8,T.J. Hockenson,TE,18.9
+3,Ted Spradley,8,Harrison Butker,K,8.0
+3,Ted Spradley,8,Buccaneers D/ST,DEF,-1.0
+3,Ted Spradley,8,David Johnson,RB,1.2999999999999998
+3,Ted Spradley,8,Dak Prescott,QB,0.0
+3,Ted Spradley,8,,Total Points,71.0
+7,Green Bowl Packers,8,Travis Kelce,TE,4.7
+7,Green Bowl Packers,8,Joe Mixon,RB,25.1
+7,Green Bowl Packers,8,James Robinson,RB,4.9
+7,Green Bowl Packers,8,Adam Thielen,WR,19.8
+7,Green Bowl Packers,8,Damien Harris,RB,14.0
+7,Green Bowl Packers,8,Justin Herbert,QB,13.82
+7,Green Bowl Packers,8,Mike Williams,WR,3.9000000000000004
+7,Green Bowl Packers,8,Matt Gay,K,8.0
+7,Green Bowl Packers,8,Rams D/ST,DEF,7.0
+7,Green Bowl Packers,8,,Total Points,101.22
+5,Thou Shenault Win ,8,Najee Harris,RB,21.0
+5,Thou Shenault Win ,8,Chris Godwin,WR,28.0
+5,Thou Shenault Win ,8,Robert Woods,WR,20.7
+5,Thou Shenault Win ,8,Kyle Pitts,TE,3.3
+5,Thou Shenault Win ,8,Leonard Fournette,RB,7.3
+5,Thou Shenault Win ,8,Cordarrelle Patterson,RB,18.2
+5,Thou Shenault Win ,8,Daniel Jones,QB,16.080000000000002
+5,Thou Shenault Win ,8,Cardinals D/ST,DEF,1.0
+5,Thou Shenault Win ,8,Matt Prater,K,3.0
+5,Thou Shenault Win ,8,,Total Points,118.58
+9,Trevor Howard,8,Alvin Kamara,RB,16.6
+9,Trevor Howard,8,DK Metcalf,WR,22.3
+9,Trevor Howard,8,Patrick Mahomes,QB,14.0
+9,Trevor Howard,8,Chase Edmonds,RB,15.9
+9,Trevor Howard,8,Chase Claypool,WR,10.1
+9,Trevor Howard,8,Jason Myers,K,7.0
+9,Trevor Howard,8,Tyler Higbee,TE,5.5
+9,Trevor Howard,8,Bears D/ST,DEF,-6.0
+9,Trevor Howard,8,Marvin Jones Jr.,WR,8.5
+9,Trevor Howard,8,,Total Points,93.9
+2,Show Me Your TDs,8,Christian McCaffrey,RB,0.0
+2,Show Me Your TDs,8,Stefon Diggs,WR,15.0
+2,Show Me Your TDs,8,Calvin Ridley,WR,0.0
+2,Show Me Your TDs,8,David Montgomery,RB,0.0
+2,Show Me Your TDs,8,D'Andre Swift,RB,8.100000000000001
+2,Show Me Your TDs,8,Ja'Marr Chase,WR,13.100000000000001
+2,Show Me Your TDs,8,Jalen Hurts,QB,11.22
+2,Show Me Your TDs,8,Ricky Seals-Jones,TE,3.2
+2,Show Me Your TDs,8,Khalil Herbert,RB,8.799999999999999
+2,Show Me Your TDs,8,Tyler Bass,K,10.0
+2,Show Me Your TDs,8,49ers D/ST,DEF,6.0
+2,Show Me Your TDs,8,,Total Points,75.42
+8,Old(er) Kitchen,8,Nick Chubb,RB,7.9
+8,Old(er) Kitchen,8,Antonio Gibson,RB,8.4
+8,Old(er) Kitchen,8,Mike Evans,WR,12.8
+8,Old(er) Kitchen,8,Cooper Kupp,WR,24.5
+8,Old(er) Kitchen,8,Michael Gallup,WR,0.0
+8,Old(er) Kitchen,8,Deebo Samuel,WR,23.1
+8,Old(er) Kitchen,8,Tom Brady,QB,25.2
+8,Old(er) Kitchen,8,Dallas Goedert,TE,13.2
+8,Old(er) Kitchen,8,Bills D/ST,DEF,13.0
+8,Old(er) Kitchen,8,Jason Sanders,K,4.0
+8,Old(er) Kitchen,8,,Total Points,132.1
+1,The Good Lookin Kitchen,8,Derrick Henry,RB,6.800000000000001
+1,The Good Lookin Kitchen,8,Austin Ekeler,RB,24.4
+1,The Good Lookin Kitchen,8,CeeDee Lamb,WR,17.200000000000003
+1,The Good Lookin Kitchen,8,Darrell Henderson Jr.,RB,22.3
+1,The Good Lookin Kitchen,8,Kirk Cousins,QB,13.16
+1,The Good Lookin Kitchen,8,Ryan Succop,K,3.0
+1,The Good Lookin Kitchen,8,Emmanuel Sanders,WR,0.0
+1,The Good Lookin Kitchen,8,Bengals D/ST,DEF,1.0
+1,The Good Lookin Kitchen,8,Jared Cook,TE,4.5
+1,The Good Lookin Kitchen,8,,Total Points,92.36
+6,Michael Canter,8,Tyreek Hill,WR,27.4
+6,Michael Canter,8,Aaron Jones,RB,24.0
+6,Michael Canter,8,Keenan Allen,WR,19.7
+6,Michael Canter,8,Robert Tonyan,TE,7.9
+6,Michael Canter,8,Broncos D/ST,DEF,16.0
+6,Michael Canter,8,Brandon McManus,K,5.0
+6,Michael Canter,8,Peyton Barber,RB,0.0
+6,Michael Canter,8,Geno Smith,QB,22.6
+6,Michael Canter,8,Marquez Callaway,WR,6.0
+6,Michael Canter,8,,Total Points,128.6
+4,Alex Moran,8,George Kittle,TE,0.0
+4,Alex Moran,8,Kareem Hunt,RB,0.0
+4,Alex Moran,8,Tee Higgins,WR,13.700000000000001
+4,Alex Moran,8,Michael Pittman Jr.,WR,30.6
+4,Alex Moran,8,Steelers D/ST,DEF,9.0
+4,Alex Moran,8,Matthew Stafford,QB,24.200000000000003
+4,Alex Moran,8,Elijah Mitchell,RB,19.700000000000003
+4,Alex Moran,8,Dalton Schultz,TE,3.1
+4,Alex Moran,8,Chuba Hubbard,RB,14.100000000000001
+4,Alex Moran,8,Greg Joseph,K,12.0
+4,Alex Moran,8,Kenneth Gainwell,RB,2.7
+4,Alex Moran,8,,Total Points,129.1
+5,Thou Shenault Win ,9,Najee Harris,RB,16.8
+5,Thou Shenault Win ,9,Robert Woods,WR,17.4
+5,Thou Shenault Win ,9,Kyle Pitts,TE,9.2
+5,Thou Shenault Win ,9,Lamar Jackson,QB,30.64
+5,Thou Shenault Win ,9,Cordarrelle Patterson,RB,19.6
+5,Thou Shenault Win ,9,Cardinals D/ST,DEF,12.0
+5,Thou Shenault Win ,9,Matt Prater,K,7.0
+5,Thou Shenault Win ,9,Jamison Crowder,WR,8.8
+5,Thou Shenault Win ,9,Christian Kirk,WR,16.42
+5,Thou Shenault Win ,9,,Total Points,137.86
+10,Dillon Durden,9,Dalvin Cook,RB,15.2
+10,Dillon Durden,9,Ezekiel Elliott,RB,12.600000000000001
+10,Dillon Durden,9,A.J. Brown,WR,9.2
+10,Dillon Durden,9,Diontae Johnson,WR,11.7
+10,Dillon Durden,9,Josh Allen,QB,9.56
+10,Dillon Durden,9,Zack Moss,RB,4.4
+10,Dillon Durden,9,Mike Gesicki,TE,9.4
+10,Dillon Durden,9,Patriots D/ST,DEF,19.0
+10,Dillon Durden,9,Graham Gano,K,11.0
+10,Dillon Durden,9,,Total Points,102.06
+2,Show Me Your TDs,9,Christian McCaffrey,RB,14.6
+2,Show Me Your TDs,9,Stefon Diggs,WR,14.5
+2,Show Me Your TDs,9,David Montgomery,RB,10.0
+2,Show Me Your TDs,9,Ja'Marr Chase,WR,8.9
+2,Show Me Your TDs,9,Brandin Cooks,WR,11.600000000000001
+2,Show Me Your TDs,9,Jalen Hurts,QB,16.68
+2,Show Me Your TDs,9,Tyler Bass,K,7.0
+2,Show Me Your TDs,9,Cowboys D/ST,DEF,0.0
+2,Show Me Your TDs,9,Tyler Conklin,TE,9.5
+2,Show Me Your TDs,9,Darrel Williams,RB,10.7
+2,Show Me Your TDs,9,,Total Points,93.48
+3,Ted Spradley,9,Jonathan Taylor,RB,34.0
+3,Ted Spradley,9,Justin Jefferson,WR,17.0
+3,Ted Spradley,9,DJ Moore,WR,7.6000000000000005
+3,Ted Spradley,9,DeVonta Smith,WR,22.6
+3,Ted Spradley,9,Harrison Butker,K,9.0
+3,Ted Spradley,9,David Johnson,RB,7.0
+3,Ted Spradley,9,Dak Prescott,QB,18.88
+3,Ted Spradley,9,Austin Hooper,TE,3.4000000000000004
+3,Ted Spradley,9,Saints D/ST,DEF,1.0
+3,Ted Spradley,9,,Total Points,120.48
+7,Green Bowl Packers,9,Travis Kelce,TE,17.8
+7,Green Bowl Packers,9,Joe Mixon,RB,28.0
+7,Green Bowl Packers,9,James Robinson,RB,0.0
+7,Green Bowl Packers,9,Adam Thielen,WR,8.6
+7,Green Bowl Packers,9,Damien Harris,RB,10.3
+7,Green Bowl Packers,9,Justin Herbert,QB,31.64
+7,Green Bowl Packers,9,Mike Williams,WR,7.800000000000001
+7,Green Bowl Packers,9,Matt Gay,K,12.0
+7,Green Bowl Packers,9,Rams D/ST,DEF,8.0
+7,Green Bowl Packers,9,,Total Points,124.14
+6,Michael Canter,9,Tyreek Hill,WR,7.300000000000001
+6,Michael Canter,9,Aaron Jones,RB,5.300000000000001
+6,Michael Canter,9,Keenan Allen,WR,22.4
+6,Michael Canter,9,Robert Tonyan,TE,0.0
+6,Michael Canter,9,Broncos D/ST,DEF,9.0
+6,Michael Canter,9,Brandon McManus,K,12.0
+6,Michael Canter,9,Peyton Barber,RB,0.0
+6,Michael Canter,9,Geno Smith,QB,0.0
+6,Michael Canter,9,Marquez Callaway,WR,11.5
+6,Michael Canter,9,,Total Points,67.5
+1,The Good Lookin Kitchen,9,Derrick Henry,RB,0.0
+1,The Good Lookin Kitchen,9,Austin Ekeler,RB,11.200000000000001
+1,The Good Lookin Kitchen,9,Darren Waller,TE,16.200000000000003
+1,The Good Lookin Kitchen,9,CeeDee Lamb,WR,4.300000000000001
+1,The Good Lookin Kitchen,9,Darrell Henderson Jr.,RB,8.8
+1,The Good Lookin Kitchen,9,Kirk Cousins,QB,21.58
+1,The Good Lookin Kitchen,9,DeVante Parker,WR,0.0
+1,The Good Lookin Kitchen,9,Emmanuel Sanders,WR,10.5
+1,The Good Lookin Kitchen,9,Devontae Booker,RB,15.200000000000001
+1,The Good Lookin Kitchen,9,Colts D/ST,DEF,0.0
+1,The Good Lookin Kitchen,9,Evan McPherson,K,4.0
+1,The Good Lookin Kitchen,9,,Total Points,91.78
+4,Alex Moran,9,Davante Adams,WR,10.2
+4,Alex Moran,9,Clyde Edwards-Helaire,RB,0.0
+4,Alex Moran,9,Kareem Hunt,RB,0.0
+4,Alex Moran,9,Tee Higgins,WR,13.8
+4,Alex Moran,9,Michael Pittman Jr.,WR,17.4
+4,Alex Moran,9,Steelers D/ST,DEF,4.0
+4,Alex Moran,9,Matthew Stafford,QB,13.06
+4,Alex Moran,9,Justin Tucker,K,10.0
+4,Alex Moran,9,Dalton Schultz,TE,9.4
+4,Alex Moran,9,Boston Scott,RB,4.0
+4,Alex Moran,9,Devin Singletary,RB,12.899999999999999
+4,Alex Moran,9,,Total Points,94.76
+9,Trevor Howard,9,Alvin Kamara,RB,20.4
+9,Trevor Howard,9,Patrick Mahomes,QB,10.440000000000001
+9,Trevor Howard,9,Mark Andrews,TE,9.4
+9,Trevor Howard,9,Julio Jones,WR,7.5
+9,Trevor Howard,9,Chase Edmonds,RB,0.30000000000000004
+9,Trevor Howard,9,Chase Claypool,WR,7.3
+9,Trevor Howard,9,Tyler Boyd,WR,2.1
+9,Trevor Howard,9,Bears D/ST,DEF,13.0
+9,Trevor Howard,9,Nick Folk,K,5.0
+9,Trevor Howard,9,,Total Points,75.44
+8,Old(er) Kitchen,9,Nick Chubb,RB,30.300000000000004
+8,Old(er) Kitchen,9,Amari Cooper,WR,5.7
+8,Old(er) Kitchen,9,Cooper Kupp,WR,20.5
+8,Old(er) Kitchen,9,Myles Gaskin,RB,15.700000000000001
+8,Old(er) Kitchen,9,Michael Gallup,WR,0.0
+8,Old(er) Kitchen,9,Deebo Samuel,WR,11.3
+8,Old(er) Kitchen,9,Dallas Goedert,TE,7.3
+8,Old(er) Kitchen,9,Bills D/ST,DEF,9.0
+8,Old(er) Kitchen,9,Jason Sanders,K,6.0
+8,Old(er) Kitchen,9,Carson Wentz,QB,24.18
+8,Old(er) Kitchen,9,,Total Points,129.98
+2,Show Me Your TDs,10,Christian McCaffrey,RB,26.1
+2,Show Me Your TDs,10,Stefon Diggs,WR,30.2
+2,Show Me Your TDs,10,D'Andre Swift,RB,16.5
+2,Show Me Your TDs,10,Aaron Rodgers,QB,10.48
+2,Show Me Your TDs,10,Dawson Knox,TE,2.7
+2,Show Me Your TDs,10,D'Ernest Johnson,RB,22.7
+2,Show Me Your TDs,10,Tyler Bass,K,9.0
+2,Show Me Your TDs,10,Packers D/ST,DEF,14.0
+2,Show Me Your TDs,10,Russell Gage,WR,0.0
+2,Show Me Your TDs,10,,Total Points,131.68
+7,Green Bowl Packers,10,Travis Kelce,TE,19.9
+7,Green Bowl Packers,10,James Robinson,RB,18.4
+7,Green Bowl Packers,10,Adam Thielen,WR,11.5
+7,Green Bowl Packers,10,Damien Harris,RB,0.0
+7,Green Bowl Packers,10,Justin Herbert,QB,12.0
+7,Green Bowl Packers,10,Mike Williams,WR,7.300000000000001
+7,Green Bowl Packers,10,Matt Gay,K,4.0
+7,Green Bowl Packers,10,Rams D/ST,DEF,1.0
+7,Green Bowl Packers,10,Hunter Renfrow,WR,17.6
+7,Green Bowl Packers,10,,Total Points,91.7
+1,The Good Lookin Kitchen,10,Derrick Henry,RB,0.0
+1,The Good Lookin Kitchen,10,Austin Ekeler,RB,14.9
+1,The Good Lookin Kitchen,10,Darren Waller,TE,6.4
+1,The Good Lookin Kitchen,10,CeeDee Lamb,WR,28.6
+1,The Good Lookin Kitchen,10,Darrell Henderson Jr.,RB,8.1
+1,The Good Lookin Kitchen,10,Kirk Cousins,QB,17.46
+1,The Good Lookin Kitchen,10,DeVante Parker,WR,0.0
+1,The Good Lookin Kitchen,10,Emmanuel Sanders,WR,7.1000000000000005
+1,The Good Lookin Kitchen,10,Colts D/ST,DEF,14.0
+1,The Good Lookin Kitchen,10,Jerry Jeudy,WR,11.100000000000001
+1,The Good Lookin Kitchen,10,Mason Crosby,K,4.0
+1,The Good Lookin Kitchen,10,,Total Points,111.66
+5,Thou Shenault Win ,10,Najee Harris,RB,17.3
+5,Thou Shenault Win ,10,Chris Godwin,WR,12.7
+5,Thou Shenault Win ,10,Kyle Pitts,TE,10.0
+5,Thou Shenault Win ,10,Lamar Jackson,QB,15.42
+5,Thou Shenault Win ,10,Leonard Fournette,RB,17.2
+5,Thou Shenault Win ,10,Cordarrelle Patterson,RB,4.9
+5,Thou Shenault Win ,10,Cardinals D/ST,DEF,3.0
+5,Thou Shenault Win ,10,Matt Prater,K,5.0
+5,Thou Shenault Win ,10,Christian Kirk,WR,12.8
+5,Thou Shenault Win ,10,,Total Points,98.32
+10,Dillon Durden,10,Dalvin Cook,RB,20.799999999999997
+10,Dillon Durden,10,Ezekiel Elliott,RB,20.76
+10,Dillon Durden,10,A.J. Brown,WR,3.3000000000000003
+10,Dillon Durden,10,Terry McLaurin,WR,11.9
+10,Dillon Durden,10,Diontae Johnson,WR,13.3
+10,Dillon Durden,10,Josh Allen,QB,20.94
+10,Dillon Durden,10,Mike Gesicki,TE,0.0
+10,Dillon Durden,10,Patriots D/ST,DEF,12.0
+10,Dillon Durden,10,Graham Gano,K,0.0
+10,Dillon Durden,10,,Total Points,103.0
+9,Trevor Howard,10,DK Metcalf,WR,5.6
+9,Trevor Howard,10,Patrick Mahomes,QB,36.24
+9,Trevor Howard,10,Mark Andrews,TE,18.3
+9,Trevor Howard,10,Laviska Shenault Jr.,WR,5.1
+9,Trevor Howard,10,J.D. McKissic,RB,7.9
+9,Trevor Howard,10,Marvin Jones Jr.,WR,5.5
+9,Trevor Howard,10,Melvin Gordon III,RB,9.3
+9,Trevor Howard,10,Nick Folk,K,9.0
+9,Trevor Howard,10,Titans D/ST,DEF,5.0
+9,Trevor Howard,10,,Total Points,101.94
+4,Alex Moran,10,Davante Adams,WR,14.8
+4,Alex Moran,10,Clyde Edwards-Helaire,RB,0.0
+4,Alex Moran,10,George Kittle,TE,16.0
+4,Alex Moran,10,Kareem Hunt,RB,0.0
+4,Alex Moran,10,Michael Pittman Jr.,WR,12.100000000000001
+4,Alex Moran,10,Steelers D/ST,DEF,5.0
+4,Alex Moran,10,Matthew Stafford,QB,9.82
+4,Alex Moran,10,Justin Tucker,K,4.0
+4,Alex Moran,10,Elijah Mitchell,RB,9.1
+4,Alex Moran,10,Cole Beasley,WR,3.5
+4,Alex Moran,10,Devin Singletary,RB,11.9
+4,Alex Moran,10,,Total Points,86.22
+3,Ted Spradley,10,Jonathan Taylor,RB,24.6
+3,Ted Spradley,10,Justin Jefferson,WR,22.9
+3,Ted Spradley,10,DJ Moore,WR,6.4
+3,Ted Spradley,10,Josh Jacobs,RB,8.6
+3,Ted Spradley,10,T.J. Hockenson,TE,0.0
+3,Ted Spradley,10,DeVonta Smith,WR,22.6
+3,Ted Spradley,10,Harrison Butker,K,11.0
+3,Ted Spradley,10,Buccaneers D/ST,DEF,6.0
+3,Ted Spradley,10,Dak Prescott,QB,26.34
+3,Ted Spradley,10,,Total Points,128.44
+6,Michael Canter,10,Tyreek Hill,WR,27.5
+6,Michael Canter,10,Aaron Jones,RB,12.600000000000001
+6,Michael Canter,10,Keenan Allen,WR,17.8
+6,Michael Canter,10,Jonnu Smith,TE,0.0
+6,Michael Canter,10,Ryan Tannehill,QB,18.619999999999997
+6,Michael Canter,10,Broncos D/ST,DEF,3.0
+6,Michael Canter,10,Brandon McManus,K,6.0
+6,Michael Canter,10,Marquez Callaway,WR,11.7
+6,Michael Canter,10,Tony Pollard,RB,15.8
+6,Michael Canter,10,,Total Points,113.02
+8,Old(er) Kitchen,10,Mike Evans,WR,14.2
+8,Old(er) Kitchen,10,Cooper Kupp,WR,23.200000000000003
+8,Old(er) Kitchen,10,Myles Gaskin,RB,5.5
+8,Old(er) Kitchen,10,Javonte Williams,RB,6.9
+8,Old(er) Kitchen,10,Michael Gallup,WR,7.2
+8,Old(er) Kitchen,10,Deebo Samuel,WR,30.300000000000004
+8,Old(er) Kitchen,10,Tom Brady,QB,13.0
+8,Old(er) Kitchen,10,Dallas Goedert,TE,4.800000000000001
+8,Old(er) Kitchen,10,Bills D/ST,DEF,11.0
+8,Old(er) Kitchen,10,Jason Sanders,K,10.0
+8,Old(er) Kitchen,10,,Total Points,118.9
+1,The Good Lookin Kitchen,11,Derrick Henry,RB,0.0
+1,The Good Lookin Kitchen,11,Austin Ekeler,RB,41.5
+1,The Good Lookin Kitchen,11,Darren Waller,TE,18.6
+1,The Good Lookin Kitchen,11,CeeDee Lamb,WR,4.4
+1,The Good Lookin Kitchen,11,Tyler Lockett,WR,15.5
+1,The Good Lookin Kitchen,11,Kirk Cousins,QB,25.240000000000002
+1,The Good Lookin Kitchen,11,DeVante Parker,WR,0.0
+1,The Good Lookin Kitchen,11,Emmanuel Sanders,WR,5.6
+1,The Good Lookin Kitchen,11,Mason Crosby,K,8.0
+1,The Good Lookin Kitchen,11,D'Onta Foreman,RB,5.0
+1,The Good Lookin Kitchen,11,Ravens D/ST,DEF,7.0
+1,The Good Lookin Kitchen,11,,Total Points,130.84
+9,Trevor Howard,11,DK Metcalf,WR,7.1
+9,Trevor Howard,11,Patrick Mahomes,QB,7.5
+9,Trevor Howard,11,Mark Andrews,TE,15.3
+9,Trevor Howard,11,Chase Claypool,WR,14.4
+9,Trevor Howard,11,J.D. McKissic,RB,6.000000000000001
+9,Trevor Howard,11,Marvin Jones Jr.,WR,9.2
+9,Trevor Howard,11,Nick Folk,K,16.0
+9,Trevor Howard,11,Titans D/ST,DEF,3.0
+9,Trevor Howard,11,Alex Collins,RB,3.6
+9,Trevor Howard,11,,Total Points,82.1
+2,Show Me Your TDs,11,Christian McCaffrey,RB,24.9
+2,Show Me Your TDs,11,Stefon Diggs,WR,18.3
+2,Show Me Your TDs,11,David Montgomery,RB,7.700000000000001
+2,Show Me Your TDs,11,D'Andre Swift,RB,22.6
+2,Show Me Your TDs,11,Aaron Rodgers,QB,33.5
+2,Show Me Your TDs,11,Ja'Marr Chase,WR,13.0
+2,Show Me Your TDs,11,Dawson Knox,TE,14.0
+2,Show Me Your TDs,11,Tyler Bass,K,-1.0
+2,Show Me Your TDs,11,Browns D/ST,DEF,9.0
+2,Show Me Your TDs,11,,Total Points,142.0
+4,Alex Moran,11,Davante Adams,WR,30.5
+4,Alex Moran,11,Clyde Edwards-Helaire,RB,15.600000000000001
+4,Alex Moran,11,George Kittle,TE,13.4
+4,Alex Moran,11,Kareem Hunt,RB,0.0
+4,Alex Moran,11,Tee Higgins,WR,3.5
+4,Alex Moran,11,Michael Pittman Jr.,WR,4.300000000000001
+4,Alex Moran,11,Steelers D/ST,DEF,-3.0
+4,Alex Moran,11,Greg Joseph,K,10.0
+4,Alex Moran,11,Jeff Wilson Jr.,RB,6.8
+4,Alex Moran,11,Tua Tagovailoa,QB,17.52
+4,Alex Moran,11,,Total Points,98.62
+8,Old(er) Kitchen,11,Nick Chubb,RB,22.4
+8,Old(er) Kitchen,11,Mike Evans,WR,20.3
+8,Old(er) Kitchen,11,Myles Gaskin,RB,18.599999999999998
+8,Old(er) Kitchen,11,Michael Gallup,WR,9.4
+8,Old(er) Kitchen,11,Deebo Samuel,WR,16.4
+8,Old(er) Kitchen,11,Jaylen Waddle,WR,20.6
+8,Old(er) Kitchen,11,Tom Brady,QB,19.28
+8,Old(er) Kitchen,11,Dallas Goedert,TE,11.2
+8,Old(er) Kitchen,11,Bills D/ST,DEF,-4.0
+8,Old(er) Kitchen,11,Jason Sanders,K,5.0
+8,Old(er) Kitchen,11,,Total Points,129.78
+7,Green Bowl Packers,11,Travis Kelce,TE,18.8
+7,Green Bowl Packers,11,Joe Mixon,RB,24.3
+7,Green Bowl Packers,11,James Robinson,RB,11.8
+7,Green Bowl Packers,11,Adam Thielen,WR,22.200000000000003
+7,Green Bowl Packers,11,Damien Harris,RB,7.500000000000001
+7,Green Bowl Packers,11,Justin Herbert,QB,34.28
+7,Green Bowl Packers,11,Mike Williams,WR,20.700000000000003
+7,Green Bowl Packers,11,Dolphins D/ST,DEF,4.0
+7,Green Bowl Packers,11,Randy Bullock,K,1.0
+7,Green Bowl Packers,11,,Total Points,144.58
+5,Thou Shenault Win ,11,Najee Harris,RB,16.9
+5,Thou Shenault Win ,11,Chris Godwin,WR,19.2
+5,Thou Shenault Win ,11,Kyle Pitts,TE,5.9
+5,Thou Shenault Win ,11,Lamar Jackson,QB,0.0
+5,Thou Shenault Win ,11,Leonard Fournette,RB,13.4
+5,Thou Shenault Win ,11,Cordarrelle Patterson,RB,0.0
+5,Thou Shenault Win ,11,Cardinals D/ST,DEF,9.0
+5,Thou Shenault Win ,11,Matt Prater,K,5.0
+5,Thou Shenault Win ,11,Christian Kirk,WR,4.5
+5,Thou Shenault Win ,11,,Total Points,73.9
+3,Ted Spradley,11,Jonathan Taylor,RB,53.4
+3,Ted Spradley,11,Justin Jefferson,WR,37.2
+3,Ted Spradley,11,DJ Moore,WR,16.0
+3,Ted Spradley,11,T.J. Hockenson,TE,11.100000000000001
+3,Ted Spradley,11,DeVonta Smith,WR,10.100000000000001
+3,Ted Spradley,11,Harrison Butker,K,8.0
+3,Ted Spradley,11,James Conner,RB,20.9
+3,Ted Spradley,11,Buccaneers D/ST,DEF,13.0
+3,Ted Spradley,11,Dak Prescott,QB,2.6400000000000006
+3,Ted Spradley,11,,Total Points,172.34
+6,Michael Canter,11,Tyreek Hill,WR,20.0
+6,Michael Canter,11,Aaron Jones,RB,0.0
+6,Michael Canter,11,Keenan Allen,WR,20.200000000000003
+6,Michael Canter,11,Jonnu Smith,TE,2.7
+6,Michael Canter,11,Ryan Tannehill,QB,9.219999999999999
+6,Michael Canter,11,Broncos D/ST,DEF,0.0
+6,Michael Canter,11,Brandon McManus,K,0.0
+6,Michael Canter,11,Marquez Callaway,WR,9.6
+6,Michael Canter,11,Tony Pollard,RB,9.0
+6,Michael Canter,11,,Total Points,70.72
+10,Dillon Durden,11,Dalvin Cook,RB,22.5
+10,Dillon Durden,11,Ezekiel Elliott,RB,12.799999999999999
+10,Dillon Durden,11,A.J. Brown,WR,9.8
+10,Dillon Durden,11,Terry McLaurin,WR,21.3
+10,Dillon Durden,11,Diontae Johnson,WR,23.1
+10,Dillon Durden,11,Josh Allen,QB,16.16
+10,Dillon Durden,11,Mike Gesicki,TE,10.0
+10,Dillon Durden,11,Patriots D/ST,DEF,26.0
+10,Dillon Durden,11,Graham Gano,K,4.0
+10,Dillon Durden,11,,Total Points,145.66
+4,Alex Moran,12,Davante Adams,WR,18.4
+4,Alex Moran,12,George Kittle,TE,2.3
+4,Alex Moran,12,Chris Carson,RB,0.0
+4,Alex Moran,12,Kareem Hunt,RB,2.0
+4,Alex Moran,12,Tee Higgins,WR,23.4
+4,Alex Moran,12,Michael Pittman Jr.,WR,9.3
+4,Alex Moran,12,Steelers D/ST,DEF,0.0
+4,Alex Moran,12,Matthew Stafford,QB,21.98
+4,Alex Moran,12,Elijah Mitchell,RB,27.8
+4,Alex Moran,12,Greg Joseph,K,2.0
+4,Alex Moran,12,Devonta Freeman,RB,7.0
+4,Alex Moran,12,,Total Points,112.18
+8,Old(er) Kitchen,12,Nick Chubb,RB,5.9
+8,Old(er) Kitchen,12,Mike Evans,WR,4.6
+8,Old(er) Kitchen,12,Cooper Kupp,WR,18.6
+8,Old(er) Kitchen,12,Myles Gaskin,RB,19.2
+8,Old(er) Kitchen,12,Michael Gallup,WR,15.600000000000001
+8,Old(er) Kitchen,12,Deebo Samuel,WR,20.8
+8,Old(er) Kitchen,12,Tom Brady,QB,11.240000000000002
+8,Old(er) Kitchen,12,Dallas Goedert,TE,1.0
+8,Old(er) Kitchen,12,Bills D/ST,DEF,11.0
+8,Old(er) Kitchen,12,Jason Sanders,K,10.0
+8,Old(er) Kitchen,12,,Total Points,102.34
+3,Ted Spradley,12,Jonathan Taylor,RB,19.7
+3,Ted Spradley,12,Justin Jefferson,WR,13.260000000000002
+3,Ted Spradley,12,DJ Moore,WR,14.3
+3,Ted Spradley,12,Josh Jacobs,RB,19.200000000000003
+3,Ted Spradley,12,T.J. Hockenson,TE,12.5
+3,Ted Spradley,12,DeVonta Smith,WR,4.2
+3,Ted Spradley,12,Buccaneers D/ST,DEF,11.0
+3,Ted Spradley,12,Dak Prescott,QB,25.3
+3,Ted Spradley,12,Robbie Gould,K,10.0
+3,Ted Spradley,12,,Total Points,129.46
+1,The Good Lookin Kitchen,12,Derrick Henry,RB,0.0
+1,The Good Lookin Kitchen,12,Austin Ekeler,RB,21.9
+1,The Good Lookin Kitchen,12,Darren Waller,TE,5.300000000000001
+1,The Good Lookin Kitchen,12,Tyler Lockett,WR,12.600000000000001
+1,The Good Lookin Kitchen,12,Darrell Henderson Jr.,RB,17.3
+1,The Good Lookin Kitchen,12,Kirk Cousins,QB,15.52
+1,The Good Lookin Kitchen,12,DeVante Parker,WR,0.0
+1,The Good Lookin Kitchen,12,Emmanuel Sanders,WR,5.800000000000001
+1,The Good Lookin Kitchen,12,Jerry Jeudy,WR,4.5
+1,The Good Lookin Kitchen,12,Mason Crosby,K,12.0
+1,The Good Lookin Kitchen,12,Jaguars D/ST,DEF,3.0
+1,The Good Lookin Kitchen,12,,Total Points,97.92
+9,Trevor Howard,12,DK Metcalf,WR,2.3
+9,Trevor Howard,12,Mark Andrews,TE,16.5
+9,Trevor Howard,12,Chase Claypool,WR,11.200000000000001
+9,Trevor Howard,12,Joe Burrow,QB,16.400000000000002
+9,Trevor Howard,12,Marvin Jones Jr.,WR,8.3
+9,Trevor Howard,12,Melvin Gordon III,RB,9.8
+9,Trevor Howard,12,Nick Folk,K,20.0
+9,Trevor Howard,12,Titans D/ST,DEF,-2.0
+9,Trevor Howard,12,Dontrell Hilliard,RB,18.3
+9,Trevor Howard,12,,Total Points,100.8
+6,Michael Canter,12,Tyreek Hill,WR,0.0
+6,Michael Canter,12,Aaron Jones,RB,2.3000000000000003
+6,Michael Canter,12,Keenan Allen,WR,15.5
+6,Michael Canter,12,Jonnu Smith,TE,8.8
+6,Michael Canter,12,Ryan Tannehill,QB,8.120000000000001
+6,Michael Canter,12,Broncos D/ST,DEF,15.0
+6,Michael Canter,12,Brandon McManus,K,4.0
+6,Michael Canter,12,Marquez Callaway,WR,4.4
+6,Michael Canter,12,Tony Pollard,RB,16.8
+6,Michael Canter,12,,Total Points,74.92
+5,Thou Shenault Win ,12,Saquon Barkley,RB,9.3
+5,Thou Shenault Win ,12,Najee Harris,RB,6.700000000000001
+5,Thou Shenault Win ,12,Chris Godwin,WR,4.7
+5,Thou Shenault Win ,12,Lamar Jackson,QB,9.400000000000002
+5,Thou Shenault Win ,12,Leonard Fournette,RB,44.1
+5,Thou Shenault Win ,12,Rob Gronkowski,TE,19.3
+5,Thou Shenault Win ,12,Elijah Moore,WR,9.3
+5,Thou Shenault Win ,12,Justin Tucker,K,13.0
+5,Thou Shenault Win ,12,Texans D/ST,DEF,8.0
+5,Thou Shenault Win ,12,,Total Points,123.8
+2,Show Me Your TDs,12,Christian McCaffrey,RB,3.5
+2,Show Me Your TDs,12,Stefon Diggs,WR,20.4
+2,Show Me Your TDs,12,David Montgomery,RB,10.4
+2,Show Me Your TDs,12,D'Andre Swift,RB,3.9
+2,Show Me Your TDs,12,Ja'Marr Chase,WR,6.9
+2,Show Me Your TDs,12,Jalen Hurts,QB,6.86
+2,Show Me Your TDs,12,Dawson Knox,TE,18.2
+2,Show Me Your TDs,12,Tyler Bass,K,7.0
+2,Show Me Your TDs,12,Panthers D/ST,DEF,3.0
+2,Show Me Your TDs,12,,Total Points,80.16
+7,Green Bowl Packers,12,Joe Mixon,RB,32.3
+7,Green Bowl Packers,12,James Robinson,RB,12.5
+7,Green Bowl Packers,12,Adam Thielen,WR,23.2
+7,Green Bowl Packers,12,Justin Herbert,QB,19.72
+7,Green Bowl Packers,12,Mike Williams,WR,7.9
+7,Green Bowl Packers,12,Hunter Renfrow,WR,21.6
+7,Green Bowl Packers,12,Michael Carter,RB,0.0
+7,Green Bowl Packers,12,Randy Bullock,K,0.0
+7,Green Bowl Packers,12,Bears D/ST,DEF,6.0
+7,Green Bowl Packers,12,Dalton Schultz,TE,15.600000000000001
+7,Green Bowl Packers,12,,Total Points,138.82
+10,Dillon Durden,12,Dalvin Cook,RB,14.3
+10,Dillon Durden,12,Ezekiel Elliott,RB,16.9
+10,Dillon Durden,12,Terry McLaurin,WR,9.100000000000001
+10,Dillon Durden,12,Diontae Johnson,WR,18.5
+10,Dillon Durden,12,Josh Allen,QB,26.700000000000003
+10,Dillon Durden,12,Kenny Golladay,WR,8.0
+10,Dillon Durden,12,Mike Gesicki,TE,4.7
+10,Dillon Durden,12,Patriots D/ST,DEF,12.0
+10,Dillon Durden,12,Graham Gano,K,6.0
+10,Dillon Durden,12,,Total Points,116.2
+3,Ted Spradley,13,Jonathan Taylor,RB,24.3
+3,Ted Spradley,13,Justin Jefferson,WR,35.599999999999994
+3,Ted Spradley,13,Josh Jacobs,RB,24.0
+3,Ted Spradley,13,T.J. Hockenson,TE,14.9
+3,Ted Spradley,13,DeVonta Smith,WR,3.5
+3,Ted Spradley,13,Harrison Butker,K,13.0
+3,Ted Spradley,13,James Conner,RB,19.1
+3,Ted Spradley,13,Buccaneers D/ST,DEF,9.0
+3,Ted Spradley,13,Dak Prescott,QB,11.219999999999999
+3,Ted Spradley,13,,Total Points,154.62
+6,Michael Canter,13,Tyreek Hill,WR,4.2
+6,Michael Canter,13,Keenan Allen,WR,22.4
+6,Michael Canter,13,Jonnu Smith,TE,2.1
+6,Michael Canter,13,Broncos D/ST,DEF,6.0
+6,Michael Canter,13,Brandon McManus,K,4.0
+6,Michael Canter,13,Marquez Callaway,WR,2.3
+6,Michael Canter,13,Tony Pollard,RB,15.400000000000002
+6,Michael Canter,13,Mac Jones,QB,0.45999999999999996
+6,Michael Canter,13,Rhamondre Stevenson,RB,7.800000000000001
+6,Michael Canter,13,,Total Points,64.66
+4,Alex Moran,13,George Kittle,TE,39.6
+4,Alex Moran,13,Chris Carson,RB,0.0
+4,Alex Moran,13,Kareem Hunt,RB,0.0
+4,Alex Moran,13,Tee Higgins,WR,28.8
+4,Alex Moran,13,Michael Pittman Jr.,WR,17.0
+4,Alex Moran,13,Steelers D/ST,DEF,9.0
+4,Alex Moran,13,Matthew Stafford,QB,24.0
+4,Alex Moran,13,Elijah Mitchell,RB,17.400000000000002
+4,Alex Moran,13,Greg Joseph,K,10.0
+4,Alex Moran,13,Van Jefferson,WR,16.1
+4,Alex Moran,13,Devonta Freeman,RB,20.7
+4,Alex Moran,13,,Total Points,182.6
+5,Thou Shenault Win ,13,Najee Harris,RB,15.700000000000001
+5,Thou Shenault Win ,13,Chris Godwin,WR,30.200000000000003
+5,Thou Shenault Win ,13,Lamar Jackson,QB,17.62
+5,Thou Shenault Win ,13,Leonard Fournette,RB,22.2
+5,Thou Shenault Win ,13,Rob Gronkowski,TE,21.8
+5,Thou Shenault Win ,13,Cordarrelle Patterson,RB,12.600000000000001
+5,Thou Shenault Win ,13,Cardinals D/ST,DEF,11.0
+5,Thou Shenault Win ,13,Elijah Moore,WR,20.6
+5,Thou Shenault Win ,13,Justin Tucker,K,7.0
+5,Thou Shenault Win ,13,,Total Points,158.72
+10,Dillon Durden,13,Dalvin Cook,RB,0.0
+10,Dillon Durden,13,Ezekiel Elliott,RB,6.7
+10,Dillon Durden,13,Terry McLaurin,WR,5.2
+10,Dillon Durden,13,Diontae Johnson,WR,30.5
+10,Dillon Durden,13,Josh Allen,QB,11.7
+10,Dillon Durden,13,Kenny Golladay,WR,6.7
+10,Dillon Durden,13,Mike Gesicki,TE,11.600000000000001
+10,Dillon Durden,13,Patriots D/ST,DEF,9.0
+10,Dillon Durden,13,Graham Gano,K,10.0
+10,Dillon Durden,13,,Total Points,91.4
+8,Old(er) Kitchen,13,Antonio Gibson,RB,22.1
+8,Old(er) Kitchen,13,Mike Evans,WR,16.9
+8,Old(er) Kitchen,13,Amari Cooper,WR,6.1000000000000005
+8,Old(er) Kitchen,13,Cooper Kupp,WR,26.9
+8,Old(er) Kitchen,13,Myles Gaskin,RB,6.9
+8,Old(er) Kitchen,13,Michael Gallup,WR,14.6
+8,Old(er) Kitchen,13,Tom Brady,QB,28.62
+8,Old(er) Kitchen,13,Dallas Goedert,TE,28.5
+8,Old(er) Kitchen,13,Bills D/ST,DEF,5.0
+8,Old(er) Kitchen,13,Jason Sanders,K,9.0
+8,Old(er) Kitchen,13,,Total Points,150.02
+1,The Good Lookin Kitchen,13,Derrick Henry,RB,0.0
+1,The Good Lookin Kitchen,13,Austin Ekeler,RB,17.4
+1,The Good Lookin Kitchen,13,CeeDee Lamb,WR,19.200000000000003
+1,The Good Lookin Kitchen,13,Tyler Lockett,WR,19.8
+1,The Good Lookin Kitchen,13,DeVante Parker,WR,11.2
+1,The Good Lookin Kitchen,13,Jerry Jeudy,WR,11.7
+1,The Good Lookin Kitchen,13,Pat Freiermuth,TE,7.6
+1,The Good Lookin Kitchen,13,Sony Michel,RB,21.900000000000002
+1,The Good Lookin Kitchen,13,Taysom Hill,QB,20.660000000000004
+1,The Good Lookin Kitchen,13,Colts D/ST,DEF,16.0
+1,The Good Lookin Kitchen,13,Matt Gay,K,15.0
+1,The Good Lookin Kitchen,13,,Total Points,149.26
+2,Show Me Your TDs,13,Stefon Diggs,WR,9.100000000000001
+2,Show Me Your TDs,13,David Montgomery,RB,28.1
+2,Show Me Your TDs,13,Ja'Marr Chase,WR,10.2
+2,Show Me Your TDs,13,Brandin Cooks,WR,8.4
+2,Show Me Your TDs,13,Alexander Mattison,RB,21.4
+2,Show Me Your TDs,13,Dawson Knox,TE,3.4000000000000004
+2,Show Me Your TDs,13,Tyler Bass,K,3.0
+2,Show Me Your TDs,13,Eagles D/ST,DEF,6.0
+2,Show Me Your TDs,13,Derek Carr,QB,12.360000000000001
+2,Show Me Your TDs,13,,Total Points,101.96
+7,Green Bowl Packers,13,Travis Kelce,TE,5.7
+7,Green Bowl Packers,13,Joe Mixon,RB,9.4
+7,Green Bowl Packers,13,James Robinson,RB,2.5000000000000004
+7,Green Bowl Packers,13,Adam Thielen,WR,1.0
+7,Green Bowl Packers,13,Justin Herbert,QB,25.28
+7,Green Bowl Packers,13,Rams D/ST,DEF,12.0
+7,Green Bowl Packers,13,Kadarius Toney,WR,0.0
+7,Green Bowl Packers,13,Michael Carter,RB,0.0
+7,Green Bowl Packers,13,Darnell Mooney,WR,7.7
+7,Green Bowl Packers,13,Brandon Aiyuk,WR,8.5
+7,Green Bowl Packers,13,Daniel Carlson,K,11.0
+7,Green Bowl Packers,13,,Total Points,83.08
+9,Trevor Howard,13,DK Metcalf,WR,11.0
+9,Trevor Howard,13,Patrick Mahomes,QB,12.56
+9,Trevor Howard,13,Mark Andrews,TE,9.0
+9,Trevor Howard,13,Chase Claypool,WR,7.4
+9,Trevor Howard,13,Marvin Jones Jr.,WR,3.1
+9,Trevor Howard,13,Rex Burkhead,RB,5.5
+9,Trevor Howard,13,Mike Boone,RB,6.4
+9,Trevor Howard,13,Chris Boswell,K,9.0
+9,Trevor Howard,13,Dolphins D/ST,DEF,10.0
+9,Trevor Howard,13,,Total Points,73.96
+10,Dillon Durden,14,Dalvin Cook,RB,35.2
+10,Dillon Durden,14,Ezekiel Elliott,RB,9.0
+10,Dillon Durden,14,Terry McLaurin,WR,0.0
+10,Dillon Durden,14,Diontae Johnson,WR,15.3
+10,Dillon Durden,14,Josh Allen,QB,35.22
+10,Dillon Durden,14,Kenny Golladay,WR,3.5
+10,Dillon Durden,14,Mike Gesicki,TE,0.0
+10,Dillon Durden,14,Patriots D/ST,DEF,0.0
+10,Dillon Durden,14,Graham Gano,K,1.0
+10,Dillon Durden,14,,Total Points,99.22
+2,Show Me Your TDs,14,Stefon Diggs,WR,14.4
+2,Show Me Your TDs,14,David Montgomery,RB,14.1
+2,Show Me Your TDs,14,Ja'Marr Chase,WR,25.3
+2,Show Me Your TDs,14,Brandin Cooks,WR,18.1
+2,Show Me Your TDs,14,Alexander Mattison,RB,2.7
+2,Show Me Your TDs,14,Dawson Knox,TE,19.0
+2,Show Me Your TDs,14,Tyler Bass,K,9.0
+2,Show Me Your TDs,14,Derek Carr,QB,10.52
+2,Show Me Your TDs,14,Packers D/ST,DEF,13.0
+2,Show Me Your TDs,14,,Total Points,126.12
+7,Green Bowl Packers,14,Travis Kelce,TE,5.7
+7,Green Bowl Packers,14,Joe Mixon,RB,8.8
+7,Green Bowl Packers,14,James Robinson,RB,0.4
+7,Green Bowl Packers,14,Justin Herbert,QB,24.9
+7,Green Bowl Packers,14,Mike Williams,WR,12.100000000000001
+7,Green Bowl Packers,14,Hunter Renfrow,WR,28.700000000000003
+7,Green Bowl Packers,14,Kadarius Toney,WR,0.0
+7,Green Bowl Packers,14,Michael Carter,RB,0.0
+7,Green Bowl Packers,14,Odell Beckham Jr.,WR,19.7
+7,Green Bowl Packers,14,Daniel Carlson,K,3.0
+7,Green Bowl Packers,14,Chargers D/ST,DEF,6.0
+7,Green Bowl Packers,14,,Total Points,109.3
+1,The Good Lookin Kitchen,14,Derrick Henry,RB,0.0
+1,The Good Lookin Kitchen,14,Austin Ekeler,RB,16.4
+1,The Good Lookin Kitchen,14,Darren Waller,TE,0.0
+1,The Good Lookin Kitchen,14,CeeDee Lamb,WR,14.600000000000001
+1,The Good Lookin Kitchen,14,Tyler Lockett,WR,27.200000000000003
+1,The Good Lookin Kitchen,14,D'Onta Foreman,RB,14.2
+1,The Good Lookin Kitchen,14,Sony Michel,RB,7.9
+1,The Good Lookin Kitchen,14,Taysom Hill,QB,26.3
+1,The Good Lookin Kitchen,14,Matt Gay,K,14.0
+1,The Good Lookin Kitchen,14,Seahawks D/ST,DEF,4.0
+1,The Good Lookin Kitchen,14,,Total Points,124.6
+9,Trevor Howard,14,DK Metcalf,WR,8.3
+9,Trevor Howard,14,Patrick Mahomes,QB,20.32
+9,Trevor Howard,14,Mark Andrews,TE,28.5
+9,Trevor Howard,14,Chase Claypool,WR,17.5
+9,Trevor Howard,14,Marvin Jones Jr.,WR,13.0
+9,Trevor Howard,14,Rex Burkhead,RB,10.6
+9,Trevor Howard,14,Mike Boone,RB,0.0
+9,Trevor Howard,14,Dolphins D/ST,DEF,0.0
+9,Trevor Howard,14,,Total Points,98.22
+4,Alex Moran,14,Davante Adams,WR,34.1
+4,Alex Moran,14,Clyde Edwards-Helaire,RB,19.2
+4,Alex Moran,14,George Kittle,TE,34.1
+4,Alex Moran,14,Chris Carson,RB,0.0
+4,Alex Moran,14,Kyler Murray,QB,17.42
+4,Alex Moran,14,Kareem Hunt,RB,3.8
+4,Alex Moran,14,Tee Higgins,WR,16.4
+4,Alex Moran,14,Steelers D/ST,DEF,-4.0
+4,Alex Moran,14,Greg Joseph,K,12.0
+4,Alex Moran,14,Devin Singletary,RB,14.899999999999999
+4,Alex Moran,14,Van Jefferson,WR,14.8
+4,Alex Moran,14,,Total Points,158.92
+8,Old(er) Kitchen,14,Nick Chubb,RB,9.5
+8,Old(er) Kitchen,14,Antonio Gibson,RB,4.1
+8,Old(er) Kitchen,14,Mike Evans,WR,21.1
+8,Old(er) Kitchen,14,Cooper Kupp,WR,31.3
+8,Old(er) Kitchen,14,Deebo Samuel,WR,12.899999999999999
+8,Old(er) Kitchen,14,Tom Brady,QB,30.119999999999997
+8,Old(er) Kitchen,14,Zach Ertz,TE,9.2
+8,Old(er) Kitchen,14,Mason Crosby,K,9.0
+8,Old(er) Kitchen,14,Panthers D/ST,DEF,2.0
+8,Old(er) Kitchen,14,,Total Points,129.22
+3,Ted Spradley,14,DeAndre Hopkins,WR,10.4
+3,Ted Spradley,14,Justin Jefferson,WR,20.5
+3,Ted Spradley,14,DJ Moore,WR,14.4
+3,Ted Spradley,14,Josh Jacobs,RB,10.0
+3,Ted Spradley,14,T.J. Hockenson,TE,0.0
+3,Ted Spradley,14,Harrison Butker,K,14.0
+3,Ted Spradley,14,James Conner,RB,33.5
+3,Ted Spradley,14,Dak Prescott,QB,9.94
+3,Ted Spradley,14,Saints D/ST,DEF,8.0
+3,Ted Spradley,14,,Total Points,120.74
+6,Michael Canter,14,Tyreek Hill,WR,11.600000000000001
+6,Michael Canter,14,Aaron Jones,RB,21.5
+6,Michael Canter,14,Marquise Brown,WR,9.100000000000001
+6,Michael Canter,14,Broncos D/ST,DEF,9.0
+6,Michael Canter,14,Brandon McManus,K,10.0
+6,Michael Canter,14,Tony Pollard,RB,0.0
+6,Michael Canter,14,Taylor Heinicke,QB,7.68
+6,Michael Canter,14,Austin Hooper,TE,14.0
+6,Michael Canter,14,Marquez Valdes-Scantling,WR,5.0
+6,Michael Canter,14,,Total Points,87.88
+5,Thou Shenault Win ,14,Najee Harris,RB,25.4
+5,Thou Shenault Win ,14,Chris Godwin,WR,20.5
+5,Thou Shenault Win ,14,Lamar Jackson,QB,1.1800000000000002
+5,Thou Shenault Win ,14,Leonard Fournette,RB,23.2
+5,Thou Shenault Win ,14,Rob Gronkowski,TE,11.2
+5,Thou Shenault Win ,14,Cordarrelle Patterson,RB,13.9
+5,Thou Shenault Win ,14,Cardinals D/ST,DEF,1.0
+5,Thou Shenault Win ,14,Jamison Crowder,WR,4.9
+5,Thou Shenault Win ,14,Justin Tucker,K,15.0
+5,Thou Shenault Win ,14,,Total Points,116.28
+8,Old(er) Kitchen,15,Nick Chubb,RB,16.3
+8,Old(er) Kitchen,15,Antonio Gibson,RB,18.5
+8,Old(er) Kitchen,15,Mike Evans,WR,2.4000000000000004
+8,Old(er) Kitchen,15,Cooper Kupp,WR,34.7
+8,Old(er) Kitchen,15,Deebo Samuel,WR,18.9
+8,Old(er) Kitchen,15,Tom Brady,QB,4.760000000000001
+8,Old(er) Kitchen,15,Zach Ertz,TE,13.4
+8,Old(er) Kitchen,15,Mason Crosby,K,7.0
+8,Old(er) Kitchen,15,Cowboys D/ST,DEF,13.0
+8,Old(er) Kitchen,15,,Total Points,279.34
+5,Thou Shenault Win ,15,Najee Harris,RB,4.6
+5,Thou Shenault Win ,15,Chris Godwin,WR,10.9
+5,Thou Shenault Win ,15,Leonard Fournette,RB,13.700000000000001
+5,Thou Shenault Win ,15,Rob Gronkowski,TE,4.9
+5,Thou Shenault Win ,15,Cordarrelle Patterson,RB,4.3
+5,Thou Shenault Win ,15,Cardinals D/ST,DEF,3.0
+5,Thou Shenault Win ,15,Jamison Crowder,WR,9.0
+5,Thou Shenault Win ,15,Justin Tucker,K,6.0
+5,Thou Shenault Win ,15,Ryan Tannehill,QB,9.92
+5,Thou Shenault Win ,15,,Total Points,114.52
+3,Ted Spradley,15,Jonathan Taylor,RB,23.0
+3,Ted Spradley,15,Justin Jefferson,WR,14.7
+3,Ted Spradley,15,DJ Moore,WR,12.8
+3,Ted Spradley,15,Josh Jacobs,RB,12.399999999999999
+3,Ted Spradley,15,Harrison Butker,K,8.0
+3,Ted Spradley,15,James Conner,RB,9.0
+3,Ted Spradley,15,Buccaneers D/ST,DEF,7.0
+3,Ted Spradley,15,Dak Prescott,QB,10.58
+3,Ted Spradley,15,David Njoku,TE,5.9
+3,Ted Spradley,15,,Total Points,228.98
+1,The Good Lookin Kitchen,15,Derrick Henry,RB,0.0
+1,The Good Lookin Kitchen,15,Austin Ekeler,RB,18.2
+1,The Good Lookin Kitchen,15,CeeDee Lamb,WR,11.0
+1,The Good Lookin Kitchen,15,Darrell Henderson Jr.,RB,4.700000000000001
+1,The Good Lookin Kitchen,15,DeVante Parker,WR,16.8
+1,The Good Lookin Kitchen,15,Pat Freiermuth,TE,7.7
+1,The Good Lookin Kitchen,15,Taysom Hill,QB,9.46
+1,The Good Lookin Kitchen,15,Matt Gay,K,10.0
+1,The Good Lookin Kitchen,15,Russell Gage,WR,23.1
+1,The Good Lookin Kitchen,15,Bills D/ST,DEF,9.0
+1,The Good Lookin Kitchen,15,,Total Points,237.56
+4,Alex Moran,15,Davante Adams,WR,16.4
+4,Alex Moran,15,Clyde Edwards-Helaire,RB,9.0
+4,Alex Moran,15,George Kittle,TE,15.3
+4,Alex Moran,15,Chris Carson,RB,0.0
+4,Alex Moran,15,Kyler Murray,QB,12.579999999999998
+4,Alex Moran,15,Kareem Hunt,RB,0.0
+4,Alex Moran,15,Tee Higgins,WR,4.300000000000001
+4,Alex Moran,15,Michael Pittman Jr.,WR,1.7000000000000002
+4,Alex Moran,15,Steelers D/ST,DEF,15.0
+4,Alex Moran,15,Greg Joseph,K,5.0
+4,Alex Moran,15,Devonta Freeman,RB,3.4000000000000004
+4,Alex Moran,15,,Total Points,202.36
+7,Green Bowl Packers,15,Travis Kelce,TE,41.1
+7,Green Bowl Packers,15,Joe Mixon,RB,7.000000000000001
+7,Green Bowl Packers,15,James Robinson,RB,17.8
+7,Green Bowl Packers,15,Justin Herbert,QB,23.04
+7,Green Bowl Packers,15,Mike Williams,WR,7.9
+7,Green Bowl Packers,15,Hunter Renfrow,WR,6.2
+7,Green Bowl Packers,15,Kadarius Toney,WR,0.0
+7,Green Bowl Packers,15,Michael Carter,RB,3.0
+7,Green Bowl Packers,15,Odell Beckham Jr.,WR,1.7000000000000002
+7,Green Bowl Packers,15,Daniel Carlson,K,12.0
+7,Green Bowl Packers,15,Chargers D/ST,DEF,-1.0
+7,Green Bowl Packers,15,,Total Points,192.88
+2,Show Me Your TDs,15,Stefon Diggs,WR,13.5
+2,Show Me Your TDs,15,David Montgomery,RB,11.3
+2,Show Me Your TDs,15,Aaron Rodgers,QB,23.82
+2,Show Me Your TDs,15,Ja'Marr Chase,WR,1.3
+2,Show Me Your TDs,15,Brandin Cooks,WR,29.200000000000003
+2,Show Me Your TDs,15,Dawson Knox,TE,7.800000000000001
+2,Show Me Your TDs,15,Tyler Bass,K,7.0
+2,Show Me Your TDs,15,Packers D/ST,DEF,-1.0
+2,Show Me Your TDs,15,Jeff Wilson Jr.,RB,19.9
+2,Show Me Your TDs,15,,Total Points,256.3
+10,Dillon Durden,15,Dalvin Cook,RB,11.1
+10,Dillon Durden,15,Ezekiel Elliott,RB,16.2
+10,Dillon Durden,15,Terry McLaurin,WR,7.1000000000000005
+10,Dillon Durden,15,Diontae Johnson,WR,9.8
+10,Dillon Durden,15,Josh Allen,QB,20.8
+10,Dillon Durden,15,Kenny Golladay,WR,8.3
+10,Dillon Durden,15,Mike Gesicki,TE,9.3
+10,Dillon Durden,15,Patriots D/ST,DEF,5.0
+10,Dillon Durden,15,Graham Gano,K,7.0
+10,Dillon Durden,15,,Total Points,177.26
+6,Michael Canter,15,Tyreek Hill,WR,32.8
+6,Michael Canter,15,Aaron Jones,RB,15.0
+6,Michael Canter,15,Marquise Brown,WR,14.3
+6,Michael Canter,15,Broncos D/ST,DEF,6.0
+6,Michael Canter,15,Brandon McManus,K,5.0
+6,Michael Canter,15,Tony Pollard,RB,11.700000000000001
+6,Michael Canter,15,Taylor Heinicke,QB,0.0
+6,Michael Canter,15,Austin Hooper,TE,0.0
+6,Michael Canter,15,Marquez Valdes-Scantling,WR,20.8
+6,Michael Canter,15,,Total Points,167.94
+9,Trevor Howard,15,DK Metcalf,WR,11.2
+9,Trevor Howard,15,Patrick Mahomes,QB,29.599999999999998
+9,Trevor Howard,15,Mark Andrews,TE,35.6
+9,Trevor Howard,15,Chase Claypool,WR,1.9000000000000004
+9,Trevor Howard,15,Marvin Jones Jr.,WR,3.4000000000000004
+9,Trevor Howard,15,Rex Burkhead,RB,5.700000000000001
+9,Trevor Howard,15,Mike Boone,RB,0.0
+9,Trevor Howard,15,Dolphins D/ST,DEF,10.0
+9,Trevor Howard,15,,Total Points,235.72
+8,Old(er) Kitchen,15,Nick Chubb,RB,27.400000000000002
+8,Old(er) Kitchen,15,Antonio Gibson,RB,13.8
+8,Old(er) Kitchen,15,Mike Evans,WR,0.0
+8,Old(er) Kitchen,15,Cooper Kupp,WR,21.3
+8,Old(er) Kitchen,15,Deebo Samuel,WR,28.1
+8,Old(er) Kitchen,15,Tom Brady,QB,14.379999999999999
+8,Old(er) Kitchen,15,Zach Ertz,TE,13.4
+8,Old(er) Kitchen,15,Mason Crosby,K,6.0
+8,Old(er) Kitchen,15,Cowboys D/ST,DEF,26.0
+8,Old(er) Kitchen,15,,Total Points,279.34
+5,Thou Shenault Win ,15,Saquon Barkley,RB,3.8000000000000003
+5,Thou Shenault Win ,15,Najee Harris,RB,16.0
+5,Thou Shenault Win ,15,Lamar Jackson,QB,0.0
+5,Thou Shenault Win ,15,Rob Gronkowski,TE,3.3000000000000003
+5,Thou Shenault Win ,15,Cordarrelle Patterson,RB,8.3
+5,Thou Shenault Win ,15,Cardinals D/ST,DEF,2.0
+5,Thou Shenault Win ,15,Jamison Crowder,WR,0.0
+5,Thou Shenault Win ,15,Christian Kirk,WR,11.8
+5,Thou Shenault Win ,15,Justin Tucker,K,3.0
+5,Thou Shenault Win ,15,,Total Points,114.52
+3,Ted Spradley,15,Jonathan Taylor,RB,10.8
+3,Ted Spradley,15,Justin Jefferson,WR,19.6
+3,Ted Spradley,15,DJ Moore,WR,10.5
+3,Ted Spradley,15,Josh Jacobs,RB,11.4
+3,Ted Spradley,15,DeVonta Smith,WR,19.0
+3,Ted Spradley,15,Buccaneers D/ST,DEF,15.0
+3,Ted Spradley,15,Dak Prescott,QB,31.300000000000004
+3,Ted Spradley,15,David Njoku,TE,0.0
+3,Ted Spradley,15,Greg Zuerlein,K,8.0
+3,Ted Spradley,15,,Total Points,228.98
+1,The Good Lookin Kitchen,15,Derrick Henry,RB,0.0
+1,The Good Lookin Kitchen,15,CeeDee Lamb,WR,10.4
+1,The Good Lookin Kitchen,15,Tyler Lockett,WR,6.0
+1,The Good Lookin Kitchen,15,Matt Gay,K,12.0
+1,The Good Lookin Kitchen,15,Justin Jackson,RB,34.2
+1,The Good Lookin Kitchen,15,Miles Sanders,RB,5.8
+1,The Good Lookin Kitchen,15,Alexander Mattison,RB,16.0
+1,The Good Lookin Kitchen,15,Kirk Cousins,QB,16.3
+1,The Good Lookin Kitchen,15,Cole Kmet,TE,8.9
+1,The Good Lookin Kitchen,15,Eagles D/ST,DEF,18.0
+1,The Good Lookin Kitchen,15,,Total Points,237.56
+4,Alex Moran,15,Davante Adams,WR,33.4
+4,Alex Moran,15,Clyde Edwards-Helaire,RB,10.1
+4,Alex Moran,15,George Kittle,TE,4.1
+4,Alex Moran,15,Chris Carson,RB,0.0
+4,Alex Moran,15,Kareem Hunt,RB,0.0
+4,Alex Moran,15,Michael Pittman Jr.,WR,16.5
+4,Alex Moran,15,Steelers D/ST,DEF,-2.0
+4,Alex Moran,15,Matthew Stafford,QB,6.68
+4,Alex Moran,15,Greg Joseph,K,12.0
+4,Alex Moran,15,Devin Singletary,RB,18.8
+4,Alex Moran,15,Antonio Brown,WR,20.1
+4,Alex Moran,15,,Total Points,202.36
+7,Green Bowl Packers,15,Travis Kelce,TE,0.0
+7,Green Bowl Packers,15,Joe Mixon,RB,31.5
+7,Green Bowl Packers,15,James Robinson,RB,1.0
+7,Green Bowl Packers,15,Justin Herbert,QB,16.939999999999998
+7,Green Bowl Packers,15,Mike Williams,WR,0.0
+7,Green Bowl Packers,15,Hunter Renfrow,WR,13.0
+7,Green Bowl Packers,15,Kadarius Toney,WR,6.800000000000001
+7,Green Bowl Packers,15,Michael Carter,RB,14.4
+7,Green Bowl Packers,15,Odell Beckham Jr.,WR,13.7
+7,Green Bowl Packers,15,Daniel Carlson,K,6.0
+7,Green Bowl Packers,15,Chargers D/ST,DEF,-5.0
+7,Green Bowl Packers,15,,Total Points,192.88
+2,Show Me Your TDs,15,Stefon Diggs,WR,21.5
+2,Show Me Your TDs,15,David Montgomery,RB,23.6
+2,Show Me Your TDs,15,Aaron Rodgers,QB,19.98
+2,Show Me Your TDs,15,Ja'Marr Chase,WR,19.5
+2,Show Me Your TDs,15,Dawson Knox,TE,9.1
+2,Show Me Your TDs,15,Tyler Bass,K,9.0
+2,Show Me Your TDs,15,Packers D/ST,DEF,10.0
+2,Show Me Your TDs,15,Jeff Wilson Jr.,RB,14.7
+2,Show Me Your TDs,15,Ronald Jones II,RB,16.1
+2,Show Me Your TDs,15,,Total Points,256.3
+10,Dillon Durden,15,Dalvin Cook,RB,0.0
+10,Dillon Durden,15,Ezekiel Elliott,RB,17.2
+10,Dillon Durden,15,Terry McLaurin,WR,7.0
+10,Dillon Durden,15,Diontae Johnson,WR,15.100000000000001
+10,Dillon Durden,15,Josh Allen,QB,30.96
+10,Dillon Durden,15,Kenny Golladay,WR,5.2
+10,Dillon Durden,15,Mike Gesicki,TE,5.2
+10,Dillon Durden,15,Patriots D/ST,DEF,-4.0
+10,Dillon Durden,15,Graham Gano,K,6.0
+10,Dillon Durden,15,,Total Points,177.26
+6,Michael Canter,15,Tyreek Hill,WR,3.9000000000000004
+6,Michael Canter,15,Aaron Jones,RB,13.700000000000001
+6,Michael Canter,15,Marquise Brown,WR,9.4
+6,Michael Canter,15,Broncos D/ST,DEF,9.0
+6,Michael Canter,15,Brandon McManus,K,9.0
+6,Michael Canter,15,Tony Pollard,RB,7.0
+6,Michael Canter,15,Taylor Heinicke,QB,4.74
+6,Michael Canter,15,Austin Hooper,TE,5.6
+6,Michael Canter,15,Marquez Valdes-Scantling,WR,0.0
+6,Michael Canter,15,,Total Points,167.94
+9,Trevor Howard,15,DK Metcalf,WR,12.100000000000001
+9,Trevor Howard,15,Patrick Mahomes,QB,22.32
+9,Trevor Howard,15,Mark Andrews,TE,26.5
+9,Trevor Howard,15,Chase Claypool,WR,8.100000000000001
+9,Trevor Howard,15,Marvin Jones Jr.,WR,15.4
+9,Trevor Howard,15,Rex Burkhead,RB,28.9
+9,Trevor Howard,15,Mike Boone,RB,0.0
+9,Trevor Howard,15,Dolphins D/ST,DEF,25.0
+9,Trevor Howard,15,,Total Points,235.72
