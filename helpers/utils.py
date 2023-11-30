@@ -56,7 +56,7 @@ def get_list_of_scores_by_week_json():
 def parse_team_json(team_json):
     team_dict = {}
     for team in team_json["teams"]:
-        team_dict[team["id"]] = f"{team['location']} {team['nickname']}"
+        team_dict[team["id"]] = team['name']
 
     return team_dict
 
