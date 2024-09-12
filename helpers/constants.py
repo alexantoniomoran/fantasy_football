@@ -14,6 +14,6 @@ positions_dict = {
     16: "DEF",
 }
 
-base_url = f"https://fantasy.espn.com/apis/v3/games/ffl/seasons/{year}/segments/0/leagues/{league_id}"
+base_url = f"https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{year}/segments/0/leagues/{league_id}"
 matchup_url = f"{base_url}?view=mMatchup&view=mMatchupScore&scoringPeriodId="
 team_url = f"{base_url}?view=mTeam"
